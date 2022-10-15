@@ -5,14 +5,14 @@ by Mara Nanni           - explained using the example of Netflix
 ---
 To understand what the term means, it is helpful to first define the single concepts.
 
-## Culture
+## Definition of Culture
 
 "CULTURE IS HOW ORGANIZATIONS DO THINGS." - Robbie Katanga
 
 - culture is the overarching system of values and norms
 - repetitive behavioral patterns in an organization which can be observed
 
-## Organization
+## Definition of Organization
 
 "A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." - Cambridge Dictionary
 
@@ -24,10 +24,14 @@ To understand what the term means, it is helpful to first define the single conc
 
 Organizational culture is defined as a system of shared values among members that differentiates the organization from other organizations. 
 
-- What is culture? 
-- What is it needed for?
 
 ---
+
+## Why is Organizational Culture needed?
+
+The five reasons for establishing an organizational culture
+
+1. increases the _stability_ of a social system
 
 ## Example
 

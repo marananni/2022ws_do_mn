@@ -1,16 +1,24 @@
 # Organizational Culture 
 
-explained using the example of Netflix
+by Mara Nanni           - explained using the example of Netflix
 
 ---
 To understand what the term means, it is helpful to first define the single concepts.
 
-*Culture*
+## Culture
 
 "CULTURE IS HOW ORGANIZATIONS DO THINGS." - Robbie Katanga
 
 - culture is the overarching system of values and norms
-- behavioral patterns in an organization which can be observed
+- repetitive behavioral patterns in an organization which can be observed
+
+## Organization
+
+"A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." - Cambridge Dictionary
+
+- collaborative system existing for a specific period of time
+- tasks are carried out on behalf of the organization in fulfillment of the organization's goals
+
 
 ## What is the definition of Organizational Culture?
 

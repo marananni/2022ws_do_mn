@@ -41,7 +41,9 @@ The five reasons for establishing an organizational culture:
 
 The four ways culture is transmitted to employees:
 
-1. Stories
+*__Stories__*
+
+
 
 
 

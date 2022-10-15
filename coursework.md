@@ -41,14 +41,28 @@ The five reasons for establishing an organizational culture:
 
 The four ways culture is transmitted to employees:
 
-*__Stories__*
+*__Stories__*: Telling stories about significant events or people, such as a CEO speech or reactions to mistakes made, provides employees with information about what values and behaviors are desired in the organization. At the same time, it provides explanation for certain practices and illustrates what is of great relevance to the company. 
+
+*__Rituals__*: Corporate rituals and ceremonies that highlight the achievements of an individual or a team, for example, make it clear who is of particularly high relevance to the company. Another example would be that every employee is given a little present for his or her birthday. This form of appreciation reflects the culture of the organization. 
+
+*__Symbols__*: The use of material symbols gives employees within an organization information about how the hierarchical structure prevails in the company and what behaviors are expected. If the CEO sits in the same office as the other employees, it indicates an organization with flat structures. However, if the CEO has his office several floors higher than his employees, there are strict hierarchies in the company. 
+
+*__Language__*: The use of language also allows conclusions to be drawn about organizational culture. If an employee is familiar with the common abbreviations or terms used daily in the company, he or she is familiar with the culture of the organization.
+
+---
+
+## Cultural Fit
 
 
+## Business Case: Organizational Culture using the Example of Netflix
 
-
-
-## Example
+"OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE:"
 
 Let's look at Netflix. 
 
 They developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664).
+
+---
+References:
+
+Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.

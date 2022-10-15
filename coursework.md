@@ -20,14 +20,14 @@ An organization is a collaborative system existing for a specific period of time
 
 ### What is the definition of Organizational Culture?
 
-Organizational culture is defined as a system of shared values and norms among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every associate. It is a result of interactions and usually reveals itself in common practices, e.g., when having a team meeting. Therefore, the organizational culture is relevant for all processes of the organization and makes the organization unique. Since is it is subject to the interpretations of the individual, it is constantly changing.
+Organizational culture is defined as a system of shared values and norms among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the organization. It is a result of interactions and usually reveals itself in common practices. An example for this can be, that every meeting within a company ends with collecting results and planing the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture makes the company unique; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is constantly changing.
 
 
 ---
 
 ## Why is Organizational Culture needed?
 
-The five reasons for establishing an organizational culture
+The five reasons for establishing an organizational culture:
 
 1. increases the __stability__ of a social system
 2. gives __orientation__ for correct behavior
@@ -38,6 +38,10 @@ The five reasons for establishing an organizational culture
 ---
 
 ## How is to learn the organizational culture in the workplace?
+
+The four ways culture is transmitted to employees:
+
+1. Stories
 
 
 

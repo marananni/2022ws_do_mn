@@ -1,6 +1,6 @@
-# Organisational Culture 
+# Organizational Culture 
 
-by Mara Nanni
+explained using the example of Netflix
 
 ---
 

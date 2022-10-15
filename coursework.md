@@ -56,11 +56,27 @@ The four ways culture is transmitted to employees:
 
 ## Business Case: Organizational Culture using the Example of Netflix
 
-"OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE:"
-
-Let's look at Netflix. 
-
 They developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664).
+
+
+"OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE."
+
+According to Netflix, considering seven aspects of culture is key to a successful organization
+#### 1. Values are what we Value
+
+#### 2. High Performance
+
+#### 3. Freedom & Responsibility
+
+#### 4. Context, not Control
+
+#### 5. Highly Aligned, Loosely Coupled
+
+#### 6. Pay Top of Market
+
+#### 7. Promotions & Development
+
+
 
 ---
 References:

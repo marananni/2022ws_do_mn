@@ -82,3 +82,5 @@ According to Netflix, considering seven aspects of culture is key to a successfu
 References:
 
 Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.
+
+Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 

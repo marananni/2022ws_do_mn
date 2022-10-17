@@ -62,7 +62,10 @@ They developed the [Culture Code](https://www.slideshare.net/reed2001/culture-17
 "OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE."
 
 According to Netflix, considering seven aspects of culture is key to a successful organization
+
 #### 1. Values are what we Value
+
+According to Netflix, the values of a company are reflected in the behaviors and skills which are valued by the employees. In this context, there are nine values that are considered particularly desirable and worthy of promotion. 
 
 #### 2. High Performance
 

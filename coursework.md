@@ -59,7 +59,7 @@ The four ways culture is transmitted to employees:
 They developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664).
 
 
-"OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE."
+    "OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE."
 
 According to [Netflix](https://www.youtube.com/watch?v=7O87hhyLa9U), considering seven aspects of culture is key to a successful organization.
 

@@ -77,18 +77,17 @@ According to Netflix, a high performance culture creates the foundation for effe
 
 #### 4. Context, not Control
 
-| Context (embrace)       | Control (Avoid)             |
-| ----------------------- | --------------------------- |
-| Strategy                | Top-down decision-making    |
-| Metrics                 | Management approval         |      
-| Assumptions             | Committees                  |
-| Metrics                 | Planning and process valued |     
-| Objectives              | are neat                    |          
-| Clearly-defined roles   | centered                    |    
-| Knowledge of the stakes | are neat                    |    
-| Transparency around     |
-| decision-making         | 
-| Assumptions             |
+| Context (embrace)                             | Control (avoid)                               |
+| ----------------------------------------------| ----------------------------------------------|
+| Strategy                                      | Top-down decision-making                      |
+| Metrics                                       | Management approval                           |      
+| Assumptions                                   | Committees                                    |
+| Metrics                                       | Planning and process valued more than results |     
+| Objectives                                    |                                               |       
+| Clearly-defined roles                         |                                               |    
+| Knowledge of the stakes                       |                                               |    
+| Transparency around decision-making           |                                               | 
+
 
 #### 5. Highly Aligned, Loosely Coupled
 

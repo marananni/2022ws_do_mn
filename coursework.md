@@ -93,10 +93,11 @@ In order to become a successful company, leaders should create an appropriate co
 
 #### 5. Highly Aligned, Loosely Coupled
 
-| Highly Aligned Goals                             |
-| -------------------------------------------------|
-| *                             |
-
+| Highly Aligned Goals                                                                |
+| ------------------------------------------------------------------------------------|
+| * clearly-defined, specific and broad understood goals and strategy                 |
+| * team interactions are oriented towards strategy and goals                         |
+| * transparency and perceptiveness require noticeable amount of management time      |
 
 #### 6. Pay Top of Market
 

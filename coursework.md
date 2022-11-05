@@ -69,11 +69,26 @@ According to Netflix, the values of a company are reflected in the behaviors and
 
 #### 2. High Performance
 
+According to Netflix, a high performance culture creates the foundation for effective working. 
+
 
 
 #### 3. Freedom & Responsibility
 
 #### 4. Context, not Control
+
+| Context (embrace)       | Control (Avoid)             |
+| ----------------------- | --------------------------- |
+| Strategy                | Top-down decision-making    |
+| Metrics                 | Management approval         |      
+| Assumptions             | Committees                  |
+| Metrics                 | Planning and process valued |     
+| Objectives              | are neat                    |          
+| Clearly-defined roles   | centered                    |    
+| Knowledge of the stakes | are neat                    |    
+| Transparency around     |
+| decision-making         | 
+| Assumptions             |
 
 #### 5. Highly Aligned, Loosely Coupled
 

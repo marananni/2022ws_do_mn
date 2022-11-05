@@ -77,6 +77,8 @@ According to Netflix, a high performance culture creates the foundation for effe
 
 #### 4. Context, not Control
 
+In order to become a successful company, leaders should create an appropriate context as foundation for desired outcomes, instead of controlling employees.
+
 | Context (embrace)                             | Control (avoid)                               |
 | ----------------------------------------------| ----------------------------------------------|
 | Strategy                                      | Top-down decision-making                      |
@@ -90,6 +92,11 @@ According to Netflix, a high performance culture creates the foundation for effe
 
 
 #### 5. Highly Aligned, Loosely Coupled
+
+| Highly Aligned Goals                             |
+| -------------------------------------------------|
+| *                             |
+
 
 #### 6. Pay Top of Market
 

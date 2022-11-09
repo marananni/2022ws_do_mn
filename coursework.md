@@ -94,10 +94,12 @@ Netflix states that "The Rare Responsible Person" is someone who thrives of free
 
 ![The Rare Responsible Person](TheRareResponsiblePerson.png) 
 
-
+This idea is deeply embedded in Netflix's corporate culture. It is believed that business success is only possible when employees are given freedom and responsibility. This encourages and attracts innovative employees, which in turn has a positive impact on the company's success. 
 
 
 #### 4. Context, not Control
+
+![Context, not Control](ContextnotControl.png)
 
 In order to become a successful company, leaders should create an appropriate context as foundation for desired outcomes, instead of controlling employees.
 

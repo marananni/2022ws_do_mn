@@ -92,7 +92,8 @@ Netflix states that "The Rare Responsible Person" is someone who thrives of free
 * Doesn't wait to be told what to do
 * Picks up the trash lying on the floor
 
-![The Rare Responsible Person](5.png)
+![The Rare Responsible Person](TheRareResponsiblePerson.png) 
+
 
 
 

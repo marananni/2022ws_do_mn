@@ -101,7 +101,7 @@ This idea is deeply embedded in Netflix's corporate culture. It is believed that
 
 ![Context, not Control](ContextnotControl.png)
 
-In order to become a successful company, leaders should create an appropriate context as foundation for desired outcomes, instead of controlling employees.
+To become a successful organization, leaders should create an appropriate context as a foundation for desired outcomes. It is assumed that control over employees does not lead to the success of a company. Rather, they should receive internal information so that they can understand decisions made. In this context, Netflix defines exactly which context-enhancing behaviors lead to the desired outcome and which controlling activities should be avoided. 
 
 | Context (embrace)                             | Control (avoid)                               |
 | ----------------------------------------------| ----------------------------------------------|

@@ -125,6 +125,8 @@ However, Netflix acknowledges that there are exceptions to "Context, no Control.
 
 ![Big_Fast_Flexible](Big_Fast_Flexible.png)
 
+The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Coupled__. The model of corporate teamwork is profoundly embedded in Netflix' organizational culture and assumes, that the effectiveness of a team is build on high performance people and a good context. The __highly__ __aligned__ __aspects__ of this agile work method involves team collaboration focused on executing clear and concise goals and strategies. Simultaneously, transparency and perceptiveness require high time investment in management. 
+
 | Highly Aligned Goals                                                                |
 | ------------------------------------------------------------------------------------|
 | - clearly-defined, specific and broad understood goals and strategy                 |

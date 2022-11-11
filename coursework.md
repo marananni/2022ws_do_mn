@@ -94,7 +94,7 @@ Netflix states that _The_ _Rare_ _Responsible_ _Person_ is someone who thrives o
 
 ![The Rare Responsible Person](TheRareResponsiblePerson.png) 
 
-This idea is deeply embedded in Netflix's corporate culture. It is believed that business success is only possible when employees are given freedom and responsibility. This encourages and attracts innovative employees, which in turn has a positive impact on the company's success. 
+Ingrained in Netflix's corporate culture is the firm belief that managers should avoid controlling their employees. It is assumed that entrepreneurial success can only be achieved if employees are given freedom and responsibility. This aspect of the corporate culture encourages and attracts innovative employees, which in turn has a positive impact on the success of the company. 
 
 
 #### 4. Context, not Control
@@ -108,11 +108,16 @@ To become a successful organization, leaders should create an appropriate contex
 | Strategy                                      | Top-down decision-making                      |
 | Metrics                                       | Management approval                           |      
 | Assumptions                                   | Committees                                    |
-| Metrics                                       | Planning and process valued more than results |     
-| Objectives                                    |                                               |       
-| Clearly-defined roles                         |                                               |    
+| Objectives                                    | Planning and process valued more than results |     
+| Clearly-defined roles                         |                                               |       
 | Knowledge of the stakes                       |                                               |    
-| Transparency around decision-making           |                                               | 
+| Transparency around decision-making           |                                               |    
+
+
+The methods listed in the table enable employees to act independently in the best interest of the organization because they are aware of the context. It is necessary for employees to be able to establish a link between their activities and the corporate and functional goals with the help of basic assumptions and the corporate strategy. Transparency regarding the decision-making process provides information regarding the relative priority of activities. They can distinguish between tasks that are critical and "nice to have" tasks.Furthermore, good context provides information about the level of precision & refinement required. Employees recognize the tasks where they cannot allow themselves to make mistakes, where mistakes can be corrected afterwards, and which tasks can be performed roughly. It is critical for employees to be aware of key stakeholders, key metrics and the company's definition of success in order to be able to make decisions in Netflix's best interest.
+
+Netflix believes that a clearly communicated corporate context empowers high-performing employees to work efficiently and make the correct decisions for the company. However, if an employee makes a significant mistake, the underlying cause lies in the fact that the employee was not sufficiently informed about the context. 
+
 
 
 #### 5. Highly Aligned, Loosely Coupled

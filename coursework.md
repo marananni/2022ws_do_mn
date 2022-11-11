@@ -133,7 +133,13 @@ The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Co
 The Salaries at Netflix are a critical part of the organizational culture. The corporation is willing to wisely invest in employees' salaries, assuming that a few high performance employees would achieve more than numerous average employees.
 
 An employee's salary should fulfill the following:
-1. 
+1. It should be higher than the salary any other employer would pay the same person.
+2. It should be equal to what it would cost to hire a replacement.
+3. It should be equivalent to what Netflix would pay to keep the person from leaving the company because of a higher offer.
+
+Even after hiring, Netflix adjusts the compensation of high-performing employees annually in accordance with the market.
+
+Following this principle, an employee's compensation increases are based on increasing demand in area or because he or she is increasingly gaining skills. Here Netflix emphasizes that it may happen that the compensation of some employees does not change for several years, however, the person in question should always be at the top of the market. Similarly, compensation is not dependent on Netflix's failure or success. 
 
 
 

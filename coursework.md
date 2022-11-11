@@ -139,8 +139,7 @@ An employee's salary should fulfill the following:
 
 Even after hiring, Netflix adjusts the compensation of high-performing employees annually in accordance with the market.
 
-Following this principle, an employee's compensation increases are based on increasing demand in area or because he or she is increasingly gaining skills. Here Netflix emphasizes that it may happen that the compensation of some employees does not change for several years, however, the person in question should always be at the top of the market. Similarly, compensation is not dependent on Netflix's failure or success. 
-
+Following this principle, an employee's compensation increases are based on increasing demand in area or because he or she is increasingly gaining skills. Here Netflix emphasizes that it may happen that the compensation of some employees does not change for several years, however, the person in question should always be at the top of the market. Similarly, compensation is not dependent on Netflix's failure or success. While employees can leave the company at any time, market-driven pay and passion at work ensure that hardly anyone wants to leave. Finally, Netflix avoids rankings against other employees. Instead of competing among each other, employees should be encouraged to support their colleagues.  
 
 
 #### 7. Promotions & Development

@@ -125,15 +125,17 @@ However, Netflix acknowledges that there are exceptions to "Context, no Control.
 
 ![Big_Fast_Flexible](Big_Fast_Flexible.png)
 
-The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Coupled__. The model of corporate teamwork is profoundly embedded in Netflix' organizational culture and assumes, that the effectiveness of a team is build on high performance people and a good context. The __highly__ __aligned__ __aspects__ of this agile work method involves team collaboration focused on executing clear and concise goals and strategies. Simultaneously, transparency and perceptiveness require high time investment in management. 
+The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Coupled__. The model of corporate teamwork is profoundly embedded in Netflix' organizational culture and assumes, that the effectiveness of a team is build on high performance people and a good context. The __highly__ __aligned__ __aspects__ of this agile work method involves team collaboration focused on executing clear and concise goals and strategies. Simultaneously, transparency and perceptiveness require high time investment in management. On the other hand, __loosely__ __coupled__ implies, that the number of meetings is reduced to a minimum, but they are held only occasionally for the purpose of jointly coordinating corporate goals and strategies. A basic trust between the teams enables teams to make decisions quickly and independently. 
 
-| Highly Aligned Goals                                                                |
-| ------------------------------------------------------------------------------------|
-| - clearly-defined, specific and broad understood goals and strategy                 |
-| - team interactions are oriented towards strategy and goals                         |
-| - transparency and perceptiveness require noticeable amount of management time      |
 
 #### 6. Pay Top of Market
+
+The Salaries at Netflix are a critical part of the organizational culture. The corporation is willing to wisely invest in employees' salaries, assuming that a few high performance employees would achieve more than numerous average employees.
+
+An employee's salary should fulfill the following:
+1. 
+
+
 
 #### 7. Promotions & Development
 

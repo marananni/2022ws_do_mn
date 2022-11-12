@@ -23,7 +23,6 @@ An organization is a collaborative system existing for a specific period of time
 
 Organizational culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the organization. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this can be, that every meeting within a company ends with collecting results and planing the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
 
-
 ---
 
 ## Why is Organizational Culture needed?
@@ -56,8 +55,6 @@ The four ways culture is transmitted to employees:
 
 ---
 
-## Cultural Fit
-
 
 ## Business Case: Organizational Culture using the Example of Netflix
 
@@ -68,13 +65,15 @@ The four ways culture is transmitted to employees:
 
 Therefore, Netflix developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664), assuming it is the key to achieve the long-term goal. In detail, [Netflix](https://www.youtube.com/watch?v=7O87hhyLa9U) considers seven aspects of culture to be crucial to organizational growth. 
 
-
+---
 
 #### 1. Values are what we Value
 
 ![nine values of Netflix](4.png)
 
 According to Netflix, the values of a company are reflected in the behaviors and skills which are valued by the employees. In this context, there are nine values that are considered particularly desirable and worthy of promotion. In contrast, Netflix lets go of those people who don't represent the values. The business appreciates people with good __1)__ __judgement__ skills. This includes being able to take decisions wisely, even if the information available is ambiguous as well as thinking strategically. Employees who have this capability are also skilled at prioritizing tasks effectively. In addition, __2)__ __communication__ is considered as an relevant value. Those people listen and evaluate carefully instead of making rash statements. They face people with respect and are capable of keeping calm, even in stressful situations. Employees proofing __3)__ __impact__ are characterized by working goal-oriented and constantly performing high. Beyond that, Netflix requires their employees to continuously appear with __4)__ __curiosity__, which includes to see things from stakeholders' perspective, regularly extend one's knowledge about business, technology and entertainment as well as conduct tasks not included in your specialty. Valuing __5)__ __innovation__ implies that an employee challenges existing assumptions while finding solutions to them and new problems. Innovation also involves minimizing complexity and simplifying content. Beyond that, Netflix seeks for employees who continuously unveil __6)__ __courage__. This includes expressing controversial opinions as well as taking complex decisions. Netflix looks for people who inspire others by their top performance and highly care about the company's success, in other words: employees need __7)__ __passion__. As with many other companies, __8)__ __honesty__ is one of Netflix's fundamental corporate values. This implies that employees communicate in an open, direct and non-judgmental way and openly admit mistakes made, in addition being willing to admit mistakes. According to Netflix, an employee reflects __9)__ __selflessness__ when always choosing the option that is best for the company, putting own needs or the needs of the team second. Selfless employees invest their time in helping colleagues and sharing their knowledge with them.
+
+---
 
 #### 2. High Performance
 
@@ -87,6 +86,8 @@ Moreover, Netflix's organizational culture is aligned towards fostering the corp
 A preferred method to grant high performance in the company is the *Keeper* *Test*. Netflix's leaders ask themselves if they would try hard to keep an employee who wants to leave the company from quitting. If not, this is an indicator that the employee should leave the company and that a replacement will contribute to higher performance.
 
 Netflix believes loyalty has a stabilizing influence and thus contributes to achieving high performance in the company. Embedded in the culture is the belief that in the short term, both the company and employees should experience *loyalty* in the event of a setback or decline in performance. However, long-term loyalty to a mid-level employee or a stagnant company does not lead to the desired high performance.  
+
+----
 
 #### 3. Freedom & Responsibility
 
@@ -111,6 +112,8 @@ However, to prevent this, Netflix is always striving to ensure that the talent d
 Freedom and responsibility are deeply embedded in Netflix's corporate culture, which is also evident from its vacation policy. Employees do not have a 9am to 5pm workday and no working hours are tracked in the company. Thus, employees may work late into the night, check emails on the weekend, but also spend their afternoon on personal time. Likewise, the company does not see the need for a strict vacation policy. The focus is not on the number of vacation days an employees take, but whether they complete their tasks. Nor does the company impose a dress code on employees as long as they come to work wearing clothes.
 Nevertheless, freedom is not unlimited at Netflix. Dishonesty and harassment are not tolerated in the workplace. In addition, the company takes legal issues very seriously and always controls the secure handling of customers' payment information.
 
+---
+
 #### 4. Context, not Control
 
 ![Context, not Control](ContextnotControl.png)
@@ -134,6 +137,7 @@ Netflix believes that a clearly communicated corporate context empowers high-per
 
 However, Netflix acknowledges that there are exceptions to "Context, no Control." For instance when a new employee is hired who still needs to learn about the context, control by the manager is highly needed. In addition, temporary control of the manager may be necessary when a position is held by a person who does not operate in the best interests of the company.
 
+---
 
 #### 5. Highly Aligned, Loosely Coupled
 
@@ -141,6 +145,7 @@ However, Netflix acknowledges that there are exceptions to "Context, no Control.
 
 The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Coupled__. The model of corporate teamwork is profoundly embedded in Netflix' organizational culture and assumes, that the effectiveness of a team is build on high performance people and a good context. The __highly__ __aligned__ __aspects__ of this agile work method involves team collaboration focused on executing clear and concise goals and strategies. Simultaneously, transparency and perceptiveness require high time investment in management. On the other hand, __loosely__ __coupled__ implies, that the number of meetings is reduced to a minimum, but they are held only occasionally for the purpose of jointly coordinating corporate goals and strategies. A basic trust between the teams enables teams to make decisions quickly and independently. 
 
+---
 
 #### 6. Pay Top of Market
 
@@ -155,6 +160,7 @@ Even after hiring, Netflix adjusts the compensation of high-performing employees
 
 Following this principle, an employee's compensation increases are based on increasing demand their area of expertise or because he or she is increasingly gaining skills. Here Netflix emphasizes that it may happen that the compensation of some employees does not change for several years due to market conditions; however, the person should always be at the top of the market. Similarly, compensation is not dependent on Netflix's failure or success. While employees can leave the company at any time, market-driven pay and passion at work ensure that hardly anyone wants to leave. Finally, Netflix avoids rankings against other employees. Instead of competing among each other, employees should be encouraged to support their colleagues.  
 
+---
 
 #### 7. Promotions & Development
 
@@ -167,7 +173,6 @@ Furthermore, Netflix clearly communicates what promotion and development opportu
 :superhero_woman: 3. In addition, promotion requires that the employee live out Netflix's culture and values and represent them within the company. 
 
 Furthermore, it is part of Netflix's corporate culture that employees drive their career development independently rather than following a strict career plan as is typical in other large companies. Rather, employees are given the change to continuously improve themselves through experience, observation, introspection, reading, and discussion. Similarly, working with talented colleagues and overcoming major challenges contributes to the continuous development of the individual. According to Netflix, these measures positively impact an individual's skills and reputation, which in turn promotes his or her economic security
-
 
 
 ![Conditions for Promotion](Conditions_Promotion.png)

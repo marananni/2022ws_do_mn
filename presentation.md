@@ -11,7 +11,6 @@
 
 ## What is the definition of Organizational Culture?
 
-To understand what the term means, it is helpful to first define the single concepts.
 
 ---
 
@@ -19,7 +18,9 @@ To understand what the term means, it is helpful to first define the single conc
 
 "CULTURE IS HOW ORGANIZATIONS DO THINGS." - [Robbie Katanga](https://hbr.org/2013/05/what-is-organizational-culture)
 
-Culture describes the overarching system of values and norms adopted by a group of people. It refers to the behavioral patterns in an organization that can be observed. Consequently, these behavior occur repeatedly.
+* overarching system of values and norms adopted by a group of people  
+* observable behavioral patterns in an organization
+* behavior occur repeatedly
 
 ---
 
@@ -27,6 +28,16 @@ Culture describes the overarching system of values and norms adopted by a group 
 
 "A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/organization)
 
-An organization is a collaborative system existing for a specific period of time. With the help of personal or material task bearers, such as people or machineries, tasks are carried out on behalf of the organization in fulfillment of the organization's goals.
+* An organization is a collaborative system existing for a specific period of time
+* tasks are carried out on behalf of the organization in fulfillment of the organization's goals
 
 ---
+
+### Definition of Organizational Culture
+
+Organizational culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations.
+
+* ideally shared by every member of the organization
+* based on interactions
+* makes the company unique
+* shaped by interpretations of the individual

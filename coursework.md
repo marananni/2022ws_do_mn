@@ -29,11 +29,11 @@ Organizational culture is defined as a system of shared values and norms among m
 
 The five reasons for establishing an organizational culture:
 
-1. increases the __stability__ of a social system
-2. gives __orientation__ for correct behavior
+:balance_scale: 1. increases the __stability__ of a social system
+🧭	:compass: 2. gives __orientation__ for correct behavior
 3. sets the __boundaries__ to other organizations and their members
-4. creates a sense of __identity__ for members
-5. promotes the emergence of __commitment__
+	:id: 4. creates a sense of __identity__ for members
+	:handshake: 5. promotes the emergence of __commitment__
 
 ---
 

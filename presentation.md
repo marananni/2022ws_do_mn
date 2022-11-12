@@ -95,4 +95,4 @@ __4.__ __Language__ 🗣️
 
 ---
 
-[Communication](Communication.png)
+![Communication](Communication.png)

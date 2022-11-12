@@ -146,9 +146,9 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 
 ----
 
-* Netflix as a pro sports team
-* apply the Keeper Test
-* loyalty as stabilizer
+* Netflix as a pro sports team 🤜🤛
+* apply the Keeper Test 🔍
+* loyalty as stabilizer ⚓
 
 ----
 

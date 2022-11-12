@@ -1,7 +1,7 @@
 # Organizational Culture 
 
 ---
-Today's Agenda:
+## Today's Agenda:
 1. Definition Organizational Culture
 2. Reasons for Organizational Culture
 3. Implementation of Organizational Culture

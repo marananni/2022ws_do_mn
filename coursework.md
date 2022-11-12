@@ -62,6 +62,7 @@ The four ways culture is transmitted to employees:
 
 ![Organizational Culture Netflix](Introduction_Netflix.png)
 
+
     "OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE." - Netflix, 2009
 
 Therefore, Netflix developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664), assuming it is the key to achieve the long-term goal. In detail, [Netflix](https://www.youtube.com/watch?v=7O87hhyLa9U) considers seven aspects of culture to be crucial to organizational growth. 
@@ -76,7 +77,8 @@ According to Netflix, the values of a company are reflected in the behaviors and
 
 #### 2. High Performance
 
-   "GREAT WORKPLACE IS STUNNING COLLEAGUES." - Netflix, 2009 
+
+    "GREAT WORKPLACE IS STUNNING COLLEAGUES." - Netflix, 2009 
 
 According to Netflix, a high performance culture creates the foundation for effective working. This implies that Netflix executives are selectively hiring, developing, or letting employees go in order to ensure that every position is filled by talent. In addition, it is important to Netflix to communicate honestly about which employee is of particular relevance to the company or a team. 
 Moreover, Netflix's organizational culture is aligned towards fostering the corporate team. Unlike a sports team, where the number of positions is limited, Netflix aims for an increasing number of talents. Employees are encouraged not to compete against each other, but to support each other in achieving high performance. Just like on a sports team, the priority of every talent at Netflix should be to perform at a high level, regardless of how long the member belongs to the teams.

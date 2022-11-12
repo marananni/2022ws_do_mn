@@ -95,6 +95,10 @@ __4.__ __Language__ 🗣️
 
 ---
 
+A company's values are reflected in nine desireable behaviors and skills of employees.
+
+---
+
 ![Judgement](Judgement.png)
 
 ----
@@ -128,3 +132,44 @@ __4.__ __Language__ 🗣️
 -----
 
 ![Selflessness](Selflessness.png)
+
+
+----
+
+## 2️⃣ High Performance
+
+---
+
+> "GREAT WORKPLACE IS STUNNING COLLEAGUES." 
+>
+> ##### Netflix, 2009 
+
+----
+
+* Netflix as a pro sports team
+* apply the Keeper Test
+* loyalty as stabilizer
+
+----
+
+## 3️⃣ Freedom & Responsibility
+
+----
+
+![The Rare Responsible Person](TheRareResponsiblePerson.png)
+
+----
+
+
+![No Policies at Netflix](No_policies.png)
+
+
+----
+
+## 4️⃣ Context, no Control
+
+----
+
+
+
+

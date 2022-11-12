@@ -33,7 +33,7 @@ The five reasons for establishing an organizational culture:
 
 🧭 2. gives __orientation__ for correct behavior
 
-3. sets the __boundaries__ to other organizations and their members
+:ng_woman: 3. sets the __boundaries__ to other organizations and their members
 
 :id: 4. creates a sense of __identity__ for members
 

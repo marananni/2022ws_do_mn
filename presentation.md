@@ -147,7 +147,9 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 ----
 
 * Netflix as a pro sports team 🤜🤛
+
 * apply the Keeper Test 🔍
+
 * loyalty as stabilizer ⚓
 
 ----
@@ -170,6 +172,19 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 
 ----
 
+![Context, no Control](ContextnotControl.png)
+
+---
+
+| Context (embrace)                             | Control (avoid)                               |
+| ----------------------------------------------| ----------------------------------------------|
+| Strategy                                      | Top-down decision-making                      |
+| Metrics                                       | Management approval                           |      
+| Assumptions                                   | Committees                                    |
+| Objectives                                    | Planning and process valued more than results |     
+| Clearly-defined roles                         |                                               |       
+| Knowledge of the stakes                       |                                               |    
+| Transparency around decision-making           |                                               |  
 
 
 

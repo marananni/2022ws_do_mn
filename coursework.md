@@ -135,7 +135,7 @@ The Salaries at Netflix are a critical part of the organizational culture. The c
 An employee's salary should fulfill the following:
 1. It should be higher than the salary any other employer would pay the same person.
 2. It should be equal to what it would cost to hire a replacement.
-3. It should be equivalent to what Netflix would pay to keep the person from leaving the company because of a higher offer.
+3. It should be equal to what Netflix would pay to keep the person from leaving the company because of a higher offer.
 
 Even after hiring, Netflix adjusts the compensation of high-performing employees annually in accordance with the market.
 
@@ -143,6 +143,9 @@ Following this principle, an employee's compensation increases are based on incr
 
 
 #### 7. Promotions & Development
+
+Furthermore, Netflix clearly communicates what promotion and development opportunities the company offers. In case an employee wants to leave the company, a manager should allow the employee to be promoted if the following criteria are met:
+1. 
 
 ![Conditions for Promotion](Conditions_Promotion.png)
 

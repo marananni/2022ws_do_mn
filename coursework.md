@@ -108,6 +108,7 @@ However, to prevent this, Netflix is always striving to ensure that the talent d
 ![No Policies at Netflix](No_policies.png)
 
 Freedom and responsibility are deeply embedded in Netflix's corporate culture, which is also evident from its vacation policy. Employees do not have a 9am to 5pm workday and no working hours are tracked in the company. Thus, employees may work late into the night, check emails on the weekend, but also spend their afternoon on personal time. Likewise, the company does not see the need for a strict vacation policy. The focus is not on the number of vacation days an employees take, but whether they complete their tasks. Nor does the company impose a dress code on employees as long as they come to work wearing clothes.
+Nevertheless, freedom is not unlimited at Netflix. Dishonesty and harassment are not tolerated in the workplace. In addition, the company takes legal issues very seriously and always controls the secure handling of customers' payment information.
 
 #### 4. Context, not Control
 

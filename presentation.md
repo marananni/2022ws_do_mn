@@ -95,4 +95,36 @@ __4.__ __Language__ 🗣️
 
 ---
 
+![Judgement](Judgement.png)
+
+----
+
 ![Communication](Communication.png)
+
+----
+
+![Impact](Impact.png)
+
+----
+
+![Curiosity](Curiosity.png)
+
+----
+
+![Innovation](Innovation.png)
+
+----
+
+![Courage](Courage.png)
+
+----
+
+![Passion](Passion.png)
+
+----
+
+![Honesty](Honesty.png)
+
+-----
+
+![Selflessness](Selflessness.png)

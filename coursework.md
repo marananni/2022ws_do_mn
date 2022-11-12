@@ -144,6 +144,10 @@ Following this principle, an employee's compensation increases are based on incr
 
 #### 7. Promotions & Development
 
+![Conditions for Promotion](Conditions_Promotion.png)
+
+
+
 ---
 
 

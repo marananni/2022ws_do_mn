@@ -3,6 +3,9 @@
 This blog post was created by Mara Nanni as part of the course *Digital* *Organization,* *Automation* *&* *Technology* with Prof. Dr. Ulrich Anders. The focus is on the topic of __Organizational__ __Culture__, which is explained in detail using the example of the company *Netflix*. 
 
 ---
+
+## What is the definition of Organizational Culture?
+
 To understand what the term means, it is helpful to first define the single concepts.
 
 ### Definition of Culture
@@ -19,7 +22,7 @@ Culture describes the overarching system of values and norms adopted by a group 
 An organization is a collaborative system existing for a specific period of time. With the help of personal or material task bearers, such as people or machineries, tasks are carried out on behalf of the organization in fulfillment of the organization's goals.
 
 
-### What is the definition of Organizational Culture?
+### Definition of Organizational Culture
 
 Organizational culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the organization. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this can be, that every meeting within a company ends with collecting results and planing the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
 
@@ -55,7 +58,6 @@ The four ways culture is transmitted to employees:
 
 ---
 
-
 ## Business Case: Organizational Culture using the Example of Netflix
 
 ![Organizational Culture Netflix](Introduction_Netflix.png)
@@ -67,7 +69,7 @@ Therefore, Netflix developed the [Culture Code](https://www.slideshare.net/reed2
 
 ---
 
-#### 1. Values are what we Value
+### 1. Values are what we Value
 
 ![nine values of Netflix](4.png)
 
@@ -75,7 +77,7 @@ According to Netflix, the values of a company are reflected in the behaviors and
 
 ---
 
-#### 2. High Performance
+### 2. High Performance
 
 
     "GREAT WORKPLACE IS STUNNING COLLEAGUES." - Netflix, 2009 
@@ -89,7 +91,7 @@ Netflix believes loyalty has a stabilizing influence and thus contributes to ach
 
 ----
 
-#### 3. Freedom & Responsibility
+### 3. Freedom & Responsibility
 
 One aspect of Netflix's organizational culture, is the image of __The__ __Rare__ __Responsible__ __Person__ being someone who *thrives* of freedom, simultaneously also being *worth* it. In detail, this implies that an employee has the following characteristics:
 
@@ -114,7 +116,7 @@ Nevertheless, freedom is not unlimited at Netflix. Dishonesty and harassment are
 
 ---
 
-#### 4. Context, not Control
+### 4. Context, not Control
 
 ![Context, not Control](ContextnotControl.png)
 
@@ -139,7 +141,7 @@ However, Netflix acknowledges that there are exceptions to "Context, no Control.
 
 ---
 
-#### 5. Highly Aligned, Loosely Coupled
+### 5. Highly Aligned, Loosely Coupled
 
 ![Big_Fast_Flexible](Big_Fast_Flexible.png)
 
@@ -147,7 +149,7 @@ The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Co
 
 ---
 
-#### 6. Pay Top of Market
+### 6. Pay Top of Market
 
 The Salaries at Netflix are a critical part of the organizational culture. The corporation is willing to wisely invest in employees' salaries, assuming that a few high performance employees would achieve more than numerous average employees.
 
@@ -162,7 +164,7 @@ Following this principle, an employee's compensation increases are based on incr
 
 ---
 
-#### 7. Promotions & Development
+### 7. Promotions & Development
 
 Furthermore, Netflix clearly communicates what promotion and development opportunities the company offers. In case an employee wants to leave the company, a manager should allow the employee to be promoted if the following criteria are met:
 

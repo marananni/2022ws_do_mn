@@ -1,6 +1,7 @@
 # Organizational Culture 
 
-by Mara Nanni           - explained using the example of Netflix
+This blog post was created by Mara Nanni as part of the course *Digital* *Organization,* *Automation* *&* *Technology* with Prof. Dr. Ulrich Anders. The focus is on the topic of __Organizational__ __Culture__, which is explained in detail using the example of the company *Netflix*. 
+
 
 ---
 To understand what the term means, it is helpful to first define the single concepts.
@@ -183,9 +184,11 @@ References:
 
 Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.
 
-Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture 
+Hastings, R. (2020). No rules rules: Netflix and the culture reinvention. WH Allen. 
+
+Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture.
 
 Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 
 
+Schein, E. H. (1990). Organizational culture. American Psychologist, 45(2), 109–119. https://doi.org/10.1037/0003-066x.45.2.109.
 
-[def]: 4.png

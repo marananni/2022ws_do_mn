@@ -176,15 +176,46 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 
 ---
 
-| Context (embrace)                             | Control (avoid)                               |
-| ----------------------------------------------| ----------------------------------------------|
-| Strategy                                      | Top-down decision-making                      |
-| Metrics                                       | Management approval                           |      
-| Assumptions                                   | Committees                                    |
-| Objectives                                    | Planning and process valued more than results |     
-| Clearly-defined roles                         |                                               |       
-| Knowledge of the stakes                       |                                               |    
-| Transparency around decision-making           |                                               |  
+
+| __Context__ __(embrace)__                     |                                
+| ----------------------------------------------| 
+| Strategy                                      | 
+| Metrics                                       |     
+| Assumptions                                   | 
+| Objectives                                    |    
+| Clearly-defined roles                         |                                                   
+| Knowledge of the stakes                       |                                                 
+| Transparency around decision-making           | 
+
+
+----
+
+| __Control__ __(avoid)__                       |
+| ----------------------------------------------| 
+| Top-down decision-making                      | 
+| Management approval                           |     
+| Committees                                    | 
+| Planning and process valued more than results |  
+
+----
+
+## 5️⃣ Highly Aligned, Loosely Coupled
+
+----
+
+![Be Big, Fast & Flexible](Big_Fast_Flexible.png)
+
+----
+
+## 6️⃣ Pay Top of the Market
+
+----
+
+## 7️⃣ Promotion & Development
+
+----
+
+![Conditions for Promotion](Conditions_Promotion.png)
 
 
 

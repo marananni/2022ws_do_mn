@@ -2,7 +2,6 @@
 
 This blog post was created by Mara Nanni as part of the course *Digital* *Organization,* *Automation* *&* *Technology* with Prof. Dr. Ulrich Anders. The focus is on the topic of __Organizational__ __Culture__, which is explained in detail using the example of the company *Netflix*. 
 
-
 ---
 To understand what the term means, it is helpful to first define the single concepts.
 
@@ -12,16 +11,17 @@ To understand what the term means, it is helpful to first define the single conc
 
 Culture describes the overarching system of values and norms adopted by a group of people. It refers to the behavioral patterns in an organization that can be observed. Consequently, these behavior occur repeatedly.
 
+
 ### Definition of Organization
 
 "A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/organization)
 
-An organization is a collaborative system existing for a specific period of time. With the help of personal or material task bearers e.g. people or machineries, tasks are carried out on behalf of the organization in fulfillment of the organization's goals.
+An organization is a collaborative system existing for a specific period of time. With the help of personal or material task bearers, such as people or machineries, tasks are carried out on behalf of the organization in fulfillment of the organization's goals.
 
 
 ### What is the definition of Organizational Culture?
 
-Organizational culture is defined as a system of shared values and norms among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the organization. It is a result of interactions and usually reveals itself in common practices. An example for this can be, that every meeting within a company ends with collecting results and planing the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture makes the company unique; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is constantly changing.
+Organizational culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the organization. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this can be, that every meeting within a company ends with collecting results and planing the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
 
 
 ---
@@ -46,13 +46,13 @@ The five reasons for establishing an organizational culture:
 
 The four ways culture is transmitted to employees:
 
-*__Stories__*: Telling stories about significant events or people, such as a CEO speech or reactions to mistakes made, provides employees with information about what values and behaviors are desired in the organization. At the same time, it provides explanation for certain practices and illustrates what is of great relevance to the company. 
+:book: *__Stories__*: Telling stories about significant events or people, such as a CEO speech or reactions to mistakes made, provides employees with information about what values and behaviors are desired in the organization. At the same time, it provides explanation for certain practices and illustrates what is of great relevance to the company. 
 
-*__Rituals__*: Corporate rituals and ceremonies that highlight the achievements of an individual or a team, for example, make it clear who is of particularly high relevance to the company. Another example would be that every employee is given a little present for his or her birthday. This form of appreciation reflects the culture of the organization. 
+:gift: *__Rituals__*: Corporate rituals and ceremonies that highlight the achievements of an individual or a team, for example, make it clear who is of particularly high relevance to the company. Another example would be that every employee is given a little present for his or her birthday. This form of appreciation reflects the culture of the organization. 
 
-*__Symbols__*: The use of material symbols gives employees within an organization information about how the hierarchical structure prevails in the company and what behaviors are expected. If the CEO sits in the same office as the other employees, it indicates an organization with flat structures. However, if the CEO has his office several floors higher than his employees, there are strict hierarchies in the company. 
+:symbols: *__Symbols__*: The use of material symbols gives employees within an organization information about how the hierarchical structure prevails in the company and what behaviors are expected. If the CEO sits in the same office as the other employees, it indicates an organization with flat structures. However, if the CEO has his office several floors higher than his employees, there are strict hierarchies in the company. 
 
-*__Language__*: The use of language also allows conclusions to be drawn about organizational culture. If an employee is familiar with the common abbreviations or terms used daily in the company, he or she is familiar with the culture of the organization.
+:speaking_head: *__Language__*: The use of language also allows conclusions to be drawn about organizational culture. If an employee is familiar with the common abbreviations or terms used daily in the company, he or she is familiar with the culture of the organization.
 
 ---
 
@@ -175,16 +175,16 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 
 
 ---
-
-
-
-
 ---
 References:
 
+Company culture is everyone's responsibility. Harvard Business Review. (2021, February 9). Retrieved November 12, 2022, from https://hbr.org/2021/02/company-culture-is-everyones-responsibility.
+
 Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.
 
-Hastings, R. (2020). No rules rules: Netflix and the culture reinvention. WH Allen. 
+Hastings, R. (2020). No rules rules: Netflix and the culture reinvention. WH Allen.
+
+McCord, P. (2014). How netflix reinvented HR. Harvard Business Review, 92(1), 71-76.
 
 Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture.
 

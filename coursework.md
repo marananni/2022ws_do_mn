@@ -80,19 +80,16 @@ According to Netflix, the values of a company are reflected in the behaviors and
 
     "GREAT WORKPLACE IS STUNNING COLLEAGUES." - Netflix, 2009 
 
-According to Netflix, a high performance culture creates the foundation for effective working. This implies that Netflix executives are selectively hiring, developing, or letting employees go in order to ensure that every position is filled by talent. In addition, it is important to Netflix to communicate honestly about which employee is of particular relevance to the company or a team. 
-Moreover, Netflix's organizational culture is aligned towards fostering the corporate team. Unlike a sports team, where the number of positions is limited, Netflix aims for an increasing number of talents. Employees are encouraged not to compete against each other, but to support each other in achieving high performance. Just like on a sports team, the priority of every talent at Netflix should be to perform at a high level, regardless of how long the member belongs to the teams.
+Netflix states that a high performance culture creates the foundation for effective working. This implies that Netflix executives are selectively hiring, developing, or letting employees go in order to ensure that every position is filled by talent. In addition, it is important to Netflix to *communicate* *honestly* about which employee is of particular relevance to the company or a team. 
+Moreover, Netflix's organizational culture is aligned towards fostering the corporate team. Unlike a sports team, where the number of positions is limited, Netflix aims for an increasing number of talents. Employees are encouraged not to compete against each other, but to *support* *each* *other* in achieving high performance. Just like on a sports team, the priority of every talent at Netflix should be to *perform* *at* *a* *high* *level*, regardless of how long the member belongs to the teams.
 
-A preferred method to grant high performance in the company is the __Keeper__ __Test__. Netflix's leaders ask themselves if they would try hard to keep an employee who wants to leave the company from quitting. If not, this is an indicator that the employee should leave the company and that a replacement will contribute to higher performance.
+A preferred method to grant high performance in the company is the *Keeper* *Test*. Netflix's leaders ask themselves if they would try hard to keep an employee who wants to leave the company from quitting. If not, this is an indicator that the employee should leave the company and that a replacement will contribute to higher performance.
 
-Netflix believes loyalty has a stabilizing influence and thus contributes to achieving high performance in the company. Embedded in the culture is the belief that in the short term, both the company and employees should experience loyalty in the event of a setback or decline in performance. However, long-term loyalty to a mid-level employee or a stagnant company does not lead to the desired high performance.  
-
+Netflix believes loyalty has a stabilizing influence and thus contributes to achieving high performance in the company. Embedded in the culture is the belief that in the short term, both the company and employees should experience *loyalty* in the event of a setback or decline in performance. However, long-term loyalty to a mid-level employee or a stagnant company does not lead to the desired high performance.  
 
 #### 3. Freedom & Responsibility
 
-##### The Rare Responsible Person
-
-Netflix states that _The_ _Rare_ _Responsible_ _Person_ is someone who thrives of freedom, simultaneously also being worth it. In detail, this implies that an employee has the following characteristics:
+One aspect of Netflix's organizational culture, is the image of __The__ __Rare__ __Responsible__ __Person__ being someone who *thrives* of freedom, simultaneously also being *worth* it. In detail, this implies that an employee has the following characteristics:
 
 * Self motivating
 * Self aware 
@@ -104,7 +101,9 @@ Netflix states that _The_ _Rare_ _Responsible_ _Person_ is someone who thrives o
 
 ![The Rare Responsible Person](TheRareResponsiblePerson.png) 
 
-Ingrained in Netflix's corporate culture is the firm belief that managers should avoid controlling their employees. It is assumed that entrepreneurial success can only be achieved if employees are given freedom and responsibility. This aspect of the corporate culture encourages and attracts innovative employees, which in turn has a positive impact on the success of the company. 
+Ingrained in Netflix's corporate culture is the firm belief that managers should avoid controlling their employees. It is assumed that entrepreneurial success can only be achieved if employees are given freedom and responsibility. This aspect of the corporate culture encourages and attracts innovative employees, which in turn has a positive impact on the success and growth of the business.
+Growing companies in particular make the mistake of limiting employees' freedom due to increasing complexity over time, explains Netflix. In order to counteract the resulting chaos, rules and predefined patterns of action are established. As a result, the creativity of the company's talents is restricted, reducing the overall level of high-performance employees in the company.
+However, to prevent this, Netflix is always striving to ensure that the talent density in the company rises higher than the complexity increases. 
 
 
 #### 4. Context, not Control

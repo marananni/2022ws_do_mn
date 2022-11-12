@@ -1,6 +1,11 @@
 # Organizational Culture 
 
-This blog post was created by Mara Nanni as part of the course *Digital* *Organization,* *Automation* *&* *Technology* with Prof. Dr. Ulrich Anders. The focus is on the topic of __Organizational__ __Culture__, which is explained in detail using the example of the company *Netflix*. 
+---
+Today's Agenda:
+1. Definition Organizational Culture
+2. Reasons for Organizational Culture
+3. Implementation of Organizational Culture
+4. Business Case: Organizational Culture of Netflix
 
 ---
 

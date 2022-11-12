@@ -15,13 +15,18 @@
 
 ### Definition of Culture
 
-"CULTURE IS HOW ORGANIZATIONS DO THINGS." - [Robbie Katanga](https://hbr.org/2013/05/what-is-organizational-culture)
+> "CULTURE IS HOW ORGANIZATIONS DO THINGS." 
+>
+>  ##### [Robbie Katanga](https://hbr.org/2013/05/what-is-organizational-culture)
 
 ---
 
 ### Definition of Organization
 
-"A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/organization)
+
+> "A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." 
+>
+> ###### [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/organization)
 
 ---
 
@@ -42,15 +47,50 @@ Organizational culture is defined as a system of __shared__ __values__ and __nor
 
 Reasons for establishing an Organizational Culture:
 
-⚖️ stability
+1. stability ⚖️
 
-🧭 orientation
+2. orientation 🧭 
 
-🚧 boundaries
+3.  boundaries 🚧
 
-🆔 identity
+4. identity 🆔
 
-🤝 commitment
+5. commitment 🤝
 
 ----
+
+## How is to learn the organizational culture in the workplace?
+
+---
+
+Culture is transmitted to employees through:
+
+__1.__ __Stories__ 📚
+
+__2.__ __Rituals__ 🎁
+
+__3.__ __Symbols__ 🔣
+
+__4.__ __Language__ 🗣️
+
+
+----
+
+## Business Case: Organizational Culture using the Example of Netflix
+
+----
+![Organizational Culture Netflix](Introduction_Netflix.png)
+
+----
+
+> "OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE."
+>
+> ##### Netflix, 2009
+
+--- 
+
+
+[Culture Code](https://www.slideshare.net/reed2001/culture-1798664) developed by Netflix considers 7️⃣ aspects of culture to be crucial to organizational growth
+
+---
 

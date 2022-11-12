@@ -60,12 +60,13 @@ The four ways culture is transmitted to employees:
 
 ## Business Case: Organizational Culture using the Example of Netflix
 
-They developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664).
-
+![Organizational Culture Netflix](Introduction_Netflix.png)
 
     "OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE." - Netflix, 2009
 
-According to [Netflix](https://www.youtube.com/watch?v=7O87hhyLa9U), considering seven aspects of culture is key to a successful organization.
+Therefore, Netflix developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664), assuming it is the key to achieve the long-term goal. In detail, [Netflix](https://www.youtube.com/watch?v=7O87hhyLa9U) considers seven aspects of culture to be crucial to organizational growth. 
+
+
 
 #### 1. Values are what we Value
 
@@ -78,8 +79,12 @@ According to Netflix, the values of a company are reflected in the behaviors and
 
    "GREAT WORKPLACE IS STUNNING COLLEAGUES" 
 
-According to Netflix, a high performance culture creates the foundation for effective working. 
+According to Netflix, a high performance culture creates the foundation for effective working. This implies that Netflix executives are selectively hiring, developing, or letting employees go in order to ensure that every position is filled by talent. In addition, it is important to Netflix to communicate honestly about which employee is of particular relevance to the company or a team. 
+Moreover, Netflix's organizational culture is aligned towards fostering the corporate team. Unlike a sports team, where the number of positions is limited, Netflix aims for an increasing number of talents. Employees are encouraged not to compete against each other, but to support each other in achieving high performance. Just like on a sports team, the priority of every talent at Netflix should be to perform at a high level, regardless of how long the member belongs to the teams.
 
+A preferred method to grant high performance in the company is the __Keeper__ __Test__. Netflix's leaders ask themselves if they would try hard to keep an employee who wants to leave the company from quitting. If not, this is an indicator that the employee should leave the company and that a replacement will contribute to higher performance.
+
+Netflix believes loyalty has a stabilizing influence and thus contributes to achieving high performance in the company. Embedded in the culture is the belief that in the short term, both the company and employees should experience loyalty in the event of a setback or decline in performance. However, long-term loyalty to a mid-level employee or a stagnant company does not lead to the desired high performance.  
 
 
 #### 3. Freedom & Responsibility
@@ -143,7 +148,7 @@ An employee's salary should fulfill the following:
 
 Even after hiring, Netflix adjusts the compensation of high-performing employees annually in accordance with the market.
 
-Following this principle, an employee's compensation increases are based on increasing demand in area or because he or she is increasingly gaining skills. Here Netflix emphasizes that it may happen that the compensation of some employees does not change for several years, however, the person in question should always be at the top of the market. Similarly, compensation is not dependent on Netflix's failure or success. While employees can leave the company at any time, market-driven pay and passion at work ensure that hardly anyone wants to leave. Finally, Netflix avoids rankings against other employees. Instead of competing among each other, employees should be encouraged to support their colleagues.  
+Following this principle, an employee's compensation increases are based on increasing demand their area of expertise or because he or she is increasingly gaining skills. Here Netflix emphasizes that it may happen that the compensation of some employees does not change for several years due to market conditions; however, the person should always be at the top of the market. Similarly, compensation is not dependent on Netflix's failure or success. While employees can leave the company at any time, market-driven pay and passion at work ensure that hardly anyone wants to leave. Finally, Netflix avoids rankings against other employees. Instead of competing among each other, employees should be encouraged to support their colleagues.  
 
 
 #### 7. Promotions & Development
@@ -154,7 +159,11 @@ Furthermore, Netflix clearly communicates what promotion and development opportu
 
 :star: 2. The person would apply for the higher position at Netflix or another company and get it because their skills meet the requirements; in other words, the person is superstar in their current role.
 
-:superhero_woman:
+:superhero_woman: 3. In addition, promotion requires that the employee live out Netflix's culture and values and represent them within the company. 
+
+Furthermore, it is part of Netflix's corporate culture that employees drive their career development independently rather than following a strict career plan as is typical in other large companies. Rather, employees are given the change to continuously improve themselves through experience, observation, introspection, reading, and discussion. Similarly, working with talented colleagues and overcoming major challenges contributes to the continuous development of the individual. According to Netflix, these measures positively impact an individual's skills and reputation, which in turn promotes his or her economic security
+
+
 
 ![Conditions for Promotion](Conditions_Promotion.png)
 
@@ -169,6 +178,8 @@ Furthermore, Netflix clearly communicates what promotion and development opportu
 References:
 
 Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.
+
+Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture 
 
 Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 
 

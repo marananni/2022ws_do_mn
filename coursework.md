@@ -154,7 +154,7 @@ Furthermore, Netflix clearly communicates what promotion and development opportu
 
 :star: 2. The person would apply for the higher position at Netflix or another company and get it because their skills meet the requirements; in other words, the person is superstar in their current role.
 
-:superhero_woman_tone1:
+:superhero_woman:
 
 ![Conditions for Promotion](Conditions_Promotion.png)
 

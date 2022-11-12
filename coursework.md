@@ -91,7 +91,7 @@ Moreover, Netflix's organizational culture is aligned towards fostering the corp
 
 A preferred method to grant high performance in the company is the *Keeper* *Test*. Netflix's leaders ask themselves if they would try hard to keep an employee who wants to leave the company from quitting. If not, this is an indicator that the employee should leave the company and that a replacement will contribute to higher performance.
 
-Netflix believes loyalty has a stabilizing influence and thus contributes to achieving high performance in the company. Embedded in the culture is the belief that in the short term, both the company and employees should experience *loyalty* in the event of a setback or decline in performance. However, long-term loyalty to a mid-level employee or a stagnant company does not lead to the desired high performance.  
+Netflix believes *loyalty* has a stabilizing influence and thus contributes to achieving high performance in the company. Embedded in the culture is the belief that in the short term, both the company and employees should experience loyalty in the event of a setback or decline in performance. However, long-term loyalty to a mid-level employee or a stagnant company does not lead to the desired high performance.  
 
 ----
 

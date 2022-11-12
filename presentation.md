@@ -91,3 +91,8 @@ __4.__ __Language__ 🗣️
 
 ---
 
+## 1️⃣ VALUES IS WHAT WE VALUE
+
+---
+
+[Communication](Communication.jpg)

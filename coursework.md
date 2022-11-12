@@ -105,6 +105,9 @@ Ingrained in Netflix's corporate culture is the firm belief that managers should
 Growing companies in particular make the mistake of limiting employees' freedom due to increasing complexity over time, explains Netflix. In order to counteract the resulting chaos, rules and predefined patterns of action are established. As a result, the creativity of the company's talents is restricted, reducing the overall level of high-performance employees in the company.
 However, to prevent this, Netflix is always striving to ensure that the talent density in the company rises higher than the complexity increases. 
 
+![No Policies at Netflix](No_policies.png)
+
+Freedom and responsibility are deeply embedded in Netflix's corporate culture, which is also evident from its vacation policy. Employees do not have a 9am to 5pm workday and no working hours are tracked in the company. Thus, employees may work late into the night, check emails on the weekend, but also spend their afternoon on personal time. Likewise, the company does not see the need for a strict vacation policy. The focus is not on the number of vacation days an employees take, but whether they complete their tasks. Nor does the company impose a dress code on employees as long as they come to work wearing clothes.
 
 #### 4. Context, not Control
 

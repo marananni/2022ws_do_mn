@@ -153,7 +153,8 @@ Furthermore, Netflix clearly communicates what promotion and development opportu
 :chart_with_upwards_trend: 1. If an employee is good performing in her position, a higher position should only be offered to her, her job is big enough and her filling the new position is beneficial for the company.
 
 :star: 2. The person would apply for the higher position at Netflix or another company and get it because their skills meet the requirements; in other words, the person is superstar in their current role.
-:woman_superhero:
+
+:superhero_woman_tone1:
 
 ![Conditions for Promotion](Conditions_Promotion.png)
 

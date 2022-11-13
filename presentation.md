@@ -192,10 +192,10 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 | Strategy                                      | 
 | Metrics                                       |     
 | Assumptions                                   | 
-| Objectives                                    |    
-| Clearly-defined roles                         |                                                   
-| Knowledge of the stakes                       |                                                 
-| Transparency around decision-making           | 
+| Objectives                                    |   
+| Clearly-defined roles                         |
+| Knowledge of stakes                           |
+| Transparency around decision-making           |
 
 
 ----
@@ -241,10 +241,7 @@ Three Tests For Top of Market Person:
 
 ----
 
-
- Pay them more than anyone else likely would
-– Pay them as much as a replacement would cost
-– Pay them as much as we would pay to keep them if they had higher offer from elsewhere
+Summary(Summary.png)
 
 ----
 
@@ -257,6 +254,7 @@ Three Tests For Top of Market Person:
 
 ----
 
+![Thank you for your attention](LastSlide.png)
 
 ----
 

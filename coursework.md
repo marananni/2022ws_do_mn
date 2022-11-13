@@ -149,7 +149,7 @@ However, Netflix acknowledges that there are exceptions to "Context, no Control.
 
 ![Big_Fast_Flexible](Big_Fast_Flexible.png)
 
-The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Coupled__. The model of corporate teamwork is profoundly embedded in Netflix' organizational culture and assumes, that the effectiveness of a team is build on high performance people and a good context. The __highly__ __aligned__ __aspects__ of this agile work method involves team collaboration focused on executing clear and concise goals and strategies. Simultaneously, transparency and perceptiveness require high time investment in management. On the other hand, __loosely__ __coupled__ implies, that the number of meetings is reduced to a minimum, but they are held only occasionally for the purpose of jointly coordinating corporate goals and strategies. A basic trust between the teams enables teams to make decisions quickly and independently. 
+The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Coupled__. The model of corporate teamwork is profoundly embedded in Netflix' organizational culture and assumes, that the effectiveness of a team is build on high performance people and a good context. The __highly__ __aligned__ __aspects__ of this agile work method involves team collaboration focused on executing clear and concise goals and strategies. Simultaneously, transparency and perceptiveness require high time investment in management. On the other hand, __loosely__ __coupled__ implies, that the number of meetings is reduced to a minimum, but they are held only occasionally for the purpose of jointly coordinating corporate goals and strategies. A basic trust between the teams allows to make decisions quickly and independently. 
 
 ---
 
@@ -172,13 +172,13 @@ Following this principle, an employee's compensation increases are based on incr
 
 Furthermore, Netflix clearly communicates what promotion and development opportunities the company offers. In case an employee wants to leave the company, a manager should allow the employee to be promoted if the following criteria are met:
 
-:chart_with_upwards_trend: 1. If an employee is good performing in her position, a higher position should only be offered to her, her job is big enough and her filling the new position is beneficial for the company.
+:chart_with_upwards_trend: 1. If an employee is good performing in her position, a higher position should only be offered to her, if her job is big enough and her filling the new position is beneficial for the company.
 
 :star: 2. The person would apply for the higher position at Netflix or another company and get it because their skills meet the requirements; in other words, the person is superstar in their current role.
 
 :superhero_woman: 3. In addition, promotion requires that the employee live out Netflix's culture and values and represent them within the company. 
 
-Furthermore, it is part of Netflix's corporate culture that employees drive their career development independently rather than following a strict career plan as is typical in other large companies. Rather, employees are given the change to continuously improve themselves through experience, observation, introspection, reading, and discussion. Similarly, working with talented colleagues and overcoming major challenges contributes to the continuous development of the individual. According to Netflix, these measures positively impact an individual's skills and reputation, which in turn promotes his or her economic security
+Furthermore, it is part of Netflix's corporate culture that employees drive their career development independently rather than following a strict career plan as is typical in other large companies. Rather, employees are given the change to continuously improve themselves through experience, observation, introspection, reading, and discussion. Similarly, working with talented colleagues and overcoming major challenges contributes to the continuous development of the individual. According to Netflix, these measures positively impact an individual's skills and reputation, which in turn promotes his or her economic security.
 
 
 ![Conditions for Promotion](Conditions_Promotion.png)

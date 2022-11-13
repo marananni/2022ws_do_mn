@@ -1,5 +1,11 @@
 # Organizational Culture 
 
+Digital Organization, Automation & Technology 
+
+Prof. Dr. Ulrich Anders | November 15, 2022
+
+Mara Nanni
+
 ----
 
 ## Today's Agenda:
@@ -7,6 +13,7 @@
 2. Reasons for Organizational Culture
 3. Implementation of Organizational Culture
 4. Business Case: Organizational Culture of Netflix
+5. Three Main Takeaways from the Presentation
 
 ----
 
@@ -216,6 +223,29 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 ----
 
 ![Conditions for Promotion](Conditions_Promotion.png)
+
+
+----
+
+
+----
+
+-  Company culture is everyone's responsibility. Harvard Business Review. (2021, February 9). Retrieved November 12, 2022, from https://hbr.org/2021/02/company-culture-is-everyones-responsibility.
+
+- Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.
+
+- Hastings, R. (2020). No rules rules: Netflix and the culture reinvention. WH Allen.
+
+----
+
+- McCord, P. (2014). How netflix reinvented HR. Harvard Business Review, 92(1), 71-76.
+
+- Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture.
+
+- Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 
+
+- Schein, E. H. (1990). Organizational culture. American Psychologist, 45(2), 109–119. https://doi.org/10.1037/0003-066x.45.2.109.
+
 
 
 

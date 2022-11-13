@@ -136,12 +136,15 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 
 ![Honesty](Honesty.png)
 
------
+---
 
 ![Selflessness](Selflessness.png)
 
-
 ----
+
+
+
+------
 
 ## 2️⃣ High Performance
 

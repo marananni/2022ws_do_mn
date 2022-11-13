@@ -217,12 +217,13 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 
 ----
 
-Highly Aligned
+###### Highly Aligned
 
 * clear, concise goals and strategies
 * large investment in time
 
-Loosely Coupled
+
+###### Loosely Coupled
 
 * minimum number of meetings
 * trust basis allows quick decision-making
@@ -230,6 +231,20 @@ Loosely Coupled
 ----
 
 ## 6️⃣ Pay Top of the Market
+
+----
+
+Three Tests For Top of Market Person:
+* What could person get elsewhere?    
+* What would we pay for replacement? 
+* What would we pay to keep that person?
+
+----
+
+
+ Pay them more than anyone else likely would
+– Pay them as much as a replacement would cost
+– Pay them as much as we would pay to keep them if they had higher offer from elsewhere
 
 ----
 

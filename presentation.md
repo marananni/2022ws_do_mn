@@ -241,16 +241,15 @@ Three Tests For Top of Market Person:
 
 ----
 
-Summary(Summary.png)
-
-----
-
 ## 7️⃣ Promotion & Development
 
 ----
 
 ![Conditions for Promotion](Conditions_Promotion.png)
 
+----
+
+![Summary](Summary.png)
 
 ----
 

@@ -217,6 +217,18 @@ A company's values are reflected in nine desireable behaviors and skills of empl
 
 ----
 
+Highly Aligned
+
+* clear, concise goals and strategies
+* large investment in time
+
+Loosely Coupled
+
+* minimum number of meetings
+* trust basis allows quick decision-making
+
+----
+
 ## 6️⃣ Pay Top of the Market
 
 ----

@@ -245,11 +245,11 @@ Three Tests For Top of Market Person:
 
 ----
 
-![Conditions for Promotion](Conditions_Promotion.png)
+![Conditions for Promotion](ConditionsPromotion.png)
 
 ----
 
-![Summary](Summary.png)
+![Summary](Summary1.png)
 
 ----
 

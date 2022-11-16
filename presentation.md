@@ -13,7 +13,7 @@ Mara Nanni
 2. Reasons for Organizational Culture
 3. Implementation of Organizational Culture
 4. Business Case: Organizational Culture of Netflix
-5. Three Main Takeaways from the Presentation
+5. Three Key Learnings from the Presentation
 
 ----
 
@@ -246,6 +246,10 @@ Three Tests For Top of Market Person:
 ----
 
 ![Conditions for Promotion](ConditionsPromotion.png)
+
+----
+
+## Three Key Learnings
 
 ----
 

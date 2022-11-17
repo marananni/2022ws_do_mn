@@ -198,7 +198,7 @@ Furthermore, Netflix clearly communicates what promotion and development opportu
 Furthermore, it is part of Netflix's corporate culture that employees drive their career development independently rather than following a strict career plan as is typical in other large companies. Rather, employees are given the change to continuously improve themselves through experience, observation, introspection, reading, and discussion. Similarly, working with talented colleagues and overcoming major challenges contributes to the continuous development of the individual. According to Netflix, these measures positively impact an individual's skills and reputation, which in turn promotes his or her economic security.
 
 
-![Conditions for Promotion](Conditions_Promotion.png)
+![Conditions for Promotion](ConditionsPromotion.png)
 
 
 

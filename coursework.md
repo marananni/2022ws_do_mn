@@ -92,7 +92,7 @@ Therefore, Netflix developed the [Culture Code](https://www.slideshare.net/reed2
 
 ### 1. Values are what we Value
 
-![nine values of Netflix](4.png)
+![nine values of Netflix](nineskills.png)
 
 According to Netflix, the values of a company are reflected in the behaviors and skills which are valued by the employees. In this context, there are nine values that are considered particularly desirable and worthy of promotion. In contrast, Netflix lets go of those people who don't represent the values. The business appreciates people with good __1)__ __judgement__ skills. This includes being able to take decisions wisely, even if the information available is ambiguous as well as thinking strategically. Employees who have this capability are also skilled at prioritizing tasks effectively. In addition, __2)__ __communication__ is considered as an relevant value. Those people listen and evaluate carefully instead of making rash statements. They face people with respect and are capable of keeping calm, even in stressful situations. Employees proofing __3)__ __impact__ are characterized by working goal-oriented and constantly performing high. Beyond that, Netflix requires their employees to continuously appear with __4)__ __curiosity__, which includes to see things from stakeholders' perspective, regularly extend one's knowledge about business, technology and entertainment as well as conduct tasks not included in your specialty. Valuing __5)__ __innovation__ implies that an employee challenges existing assumptions while finding solutions to them and new problems. Innovation also involves minimizing complexity and simplifying content. Beyond that, Netflix seeks for employees who continuously unveil __6)__ __courage__. This includes expressing controversial opinions as well as taking complex decisions. Netflix looks for people who inspire others by their top performance and highly care about the company's success, in other words: employees need __7)__ __passion__. As with many other companies, __8)__ __honesty__ is one of Netflix's fundamental corporate values. This implies that employees communicate in an open, direct and non-judgmental way and openly admit mistakes made, in addition being willing to admit mistakes. According to Netflix, an employee reflects __9)__ __selflessness__ when always choosing the option that is best for the company, putting own needs or the needs of the team second. Selfless employees invest their time in helping colleagues and sharing their knowledge with them.
 
@@ -199,7 +199,6 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 
 
 ![Conditions for Promotion](ConditionsPromotion.png)
-
 
 
 ---

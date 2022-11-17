@@ -62,6 +62,23 @@ The four ways culture is transmitted to employees:
 
 ---
 
+## Paths to cultural change
+
+Even though in some cases inescapable, __cultural change__ is difficult. The underlying reason therefore is, that the existing culture of an organization was developed and learned through some instances decades of behavior. It is extensively researched that altering human behavior may be very difficult.
+
+For achieving a cultural change, Doppler & Lauterburg (2019) recommends the consistent and simultaneous implementation of the following influencing measures for medium-term success:
+
+1. *Specifically describing the desired future.* The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
+2. *Thoroughly justifying the necessity for change.* When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
+3. *Setting norms by example.* Only if the top management of a company commits to change of the organizational change, it can successfully happen.
+4. *Collective effort with regard to culture change.* It is effective to let every person from a company participate in the desired change.
+5. *Shifting gears by staff selection in key positions.* If the people in key positions behave in line with the behavioral norms, this has a significant impact on successfully changing the organizational culture.
+6. *Rewards and sanctions in the leadership process.* For instance, paying a bonus for a person showing the requested leadership behavior might motivating other employees to change as well.
+7. *Consistent project management.* In order to implement organizational change, companies must invest time and money. 
+
+
+---
+
 ## Business Case: Organizational Culture using the Example of Netflix
 
 ![Organizational Culture Netflix](Introduction_Netflix.png)
@@ -188,6 +205,8 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 ---
 ---
 References:
+
+Doppler, K., & Lauterburg, C. (2019). Change Management: Den Unternehmenswandel gestalten. Campus Verlag.
 
 Company culture is everyone's responsibility. Harvard Business Review. (2021, February 9). Retrieved November 12, 2022, from https://hbr.org/2021/02/company-culture-is-everyones-responsibility.
 

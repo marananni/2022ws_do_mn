@@ -10,23 +10,23 @@ To understand what the term means, it is helpful to first define the single conc
 
 ---
 
-### Definition of Culture
+### Definition of Culture [^1]
 
-    "CULTURE IS HOW ORGANIZATIONS DO THINGS." - [Robbie Katanga](https://hbr.org/2013/05/what-is-organizational-culture)[^1]
+    "CULTURE IS HOW ORGANIZATIONS DO THINGS." - Robbie Katanga
 
-Culture describes the overarching system of values and norms adopted by a group of people. It refers to the behavioral patterns in an organization that can be observed. Consequently, these behaviors occur repeatedly.
+Culture describes the overarching system of values and norms adopted by a group of people. It refers to the behavioral patterns in an organization that can be observed. Consequently, these behaviors occur repeatedly
 
 ---
 
-### Definition of Organization
+### Definition of Organization [^2]
 
-    "A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/organization)
+    "A GROUP OF PEOPLE WHO WORK TOGETHER IN AN ORGANIZED WAY FOR A SHARED PURPOSE." - Cambridge Dictionary
 
 An organization is a collaborative system existing for a specific period of time. With the help of personal or material task bearers, such as people or machineries, tasks are carried out on behalf of the organization in fulfillment of the organization's goals.
 
 ---
 
-### Definition of Organizational Culture
+### Definition of Organizational Culture [^3] [^4]
 
 Organizational Culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the business. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this might be, that every meeting within a company ends with collecting results and planning the next steps. Consequently, the Organizational Culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The Organizational Culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
 
@@ -246,11 +246,13 @@ McCord, P. (2014). How netflix reinvented HR. Harvard Business Review, 92(1), 71
 
 Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture.
 
-Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 
+[^2]: Organization. Cambridge Dictionary. (n.d.). Retrieved November 21, 2022, from https://dictionary.cambridge.org/dictionary/english/organization.
+
+[^3]: Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 
 
 Schein, E. H. (1990). Organizational culture. American Psychologist, 45(2), 109–119. https://doi.org/10.1037/0003-066x.45.2.109.
 
-Schwarz, S. (n.d.). Organizational Culture (Lecture Slides). CBS International Business School.
+[^4] Schwarz, S. (n.d.). Organizational Culture (Lecture Slides). CBS International Business School.
 
-Watkins, M. D. (2014, August 7). What is organizational culture? and why should we care? Harvard Business Review. Retrieved November 12, 2022, from https://hbr.org/2013/05/what-is-organizational-culture.
+[^1]: Watkins, M. D. (2014, August 7). What is organizational culture? and why should we care? Harvard Business Review. Retrieved November 12, 2022, from https://hbr.org/2013/05/what-is-organizational-culture.
 

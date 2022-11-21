@@ -188,7 +188,7 @@ The methods listed in the table enable employees to act independently in the bes
 
 Netflix believes that a clearly communicated corporate context empowers high-performing employees to work efficiently and make the correct decisions for the company. However, if an employee makes a significant mistake, the underlying cause lies in the fact that the employee was not sufficiently informed about the context. When this happens, it is the responsibility of managers to contribute to a greater understanding of the context through regular departmental meetings and open communication of strategies and goals. 
 
-However, Netflix acknowledges that there are exceptions to "Context, no Control." For instance when a new employee is hired who still needs to learn about the context, control by the manager is highly needed. In addition, temporary control of the manager may be necessary when a position is held by a person who does not operate in the best interests of the company.
+However, Netflix acknowledges that there are exceptions to "Context, no Control". For instance when a new employee is hired who still needs to learn about the context, control by the manager is highly needed. In addition, temporary control of the manager may be necessary when a position is held by a person who does not operate in the best interests of the company.
 
 ---
 

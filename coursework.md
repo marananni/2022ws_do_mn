@@ -215,7 +215,7 @@ Following this principle, an employee's compensation increases are based on incr
 
 ---
 
-### 7. Promotions & Development [^9]: 
+### 7. Promotions & Development [^9]
 
 Furthermore, Netflix clearly communicates what promotion and development opportunities the company offers. In case an employee wants to leave the company, a manager should allow the employee to be promoted if the following criteria are met:
 

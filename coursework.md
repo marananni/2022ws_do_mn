@@ -55,6 +55,7 @@ Job candidates with similar values might be attracted by the company and its mis
 🤝 5. Organizational Culture promotes the emergence of __commitment__.
 
 In particular, it results in higher  satisfaction and motivation of employees, which positively impacts productivity.
+
 ---
 
 ## How to learn the Organizational Culture in the workplace? [^5]

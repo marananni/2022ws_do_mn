@@ -68,31 +68,31 @@ Even though in some cases inescapable, __cultural change__ is difficult. The und
 
 For achieving a cultural change, Doppler & Lauterburg (2019) recommends the consistent and simultaneous implementation of the following influencing measures for medium-term success:
 
-1. *Specifically describing the desired future.* 
+__1. *Specifically describing the desired future.*__
 
 The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
 
-2. *Thoroughly justifying the necessity for change.* 
+__2. *Thoroughly justifying the necessity for change.*__
 
 When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
 
-3. *Setting norms by example.* 
+__3. *Setting norms by example.*__
 
 Only if the top management of a company commits to change of the organizational change, it can successfully happen.
 
-4. *Collective effort with regard to culture change.* 
+__4. *Collective effort with regard to culture change.*__
 
 It is effective to let every person from a company participate in the desired change.
 
-5. *Shifting gears by staff selection in key positions.* 
+__5. *Shifting gears by staff selection in key positions.*__ 
 
 If the people in key positions behave in line with the behavioral norms, this has a significant impact on successfully changing the organizational culture.
 
-6. *Rewards and sanctions in the leadership process.* 
+__6. *Rewards and sanctions in the leadership process.*__
 
 For instance, paying a bonus for a person showing the requested leadership behavior might motivating other employees to change as well.
 
-7. *Consistent project management.* 
+__7. *Consistent project management.*__
 
 In order to implement organizational change, companies must invest time and money. 
 

@@ -232,7 +232,7 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 
 ---
 ---
-### References:
+### List of References:
 
 [^1]: Watkins, M. D. (2014, August 7). What is organizational culture? and why should we care? Harvard Business Review. Retrieved November 12, 2022, from https://hbr.org/2013/05/what-is-organizational-culture.
 

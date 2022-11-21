@@ -154,7 +154,7 @@ One aspect of Netflix's organizational culture, is the image of __The__ __Rare__
 * Doesn't wait to be told what to do
 * Picks up the trash lying on the floor
 
-![The Rare Responsible Person](The Rare Responsible PersonCW.png) 
+![The Rare Responsible Person](TheRareResponsiblePersonCW.png) 
 
 Ingrained in Netflix's corporate culture is the firm belief that managers should avoid controlling their employees. It is assumed that entrepreneurial success can only be achieved if employees are given freedom and responsibility. This aspect of the corporate culture encourages and attracts innovative employees, which in turn has a positive impact on the success and growth of the business.
 Growing companies in particular make the mistake of limiting employees' freedom due to increasing complexity over time, explains Netflix. In order to counteract the resulting chaos, rules and predefined patterns of action are established. As a result, the creativity of the company's talents is restricted, reducing the overall level of high-performance employees in the company.

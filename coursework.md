@@ -115,7 +115,7 @@ In order to implement organizational change, companies must invest time and mone
 
 The company Netflix it well-known for its distinctive Organizational Culture. In detail, Netflix developed the [Culture Code](https://www.slideshare.net/reed2001/culture-1798664), assuming it is the key to achieve the long-term goal. From the document it emerges, that [Netflix](https://www.youtube.com/watch?v=7O87hhyLa9U) considers seven aspects of culture to be crucial to organizational growth. 
 
-![Organizational Culture Netflix](Introduction_Netflix.png)
+![Organizational Culture Netflix](Introduction_NetflixCW.png)
 
 
 ---

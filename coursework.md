@@ -12,7 +12,7 @@ To understand what the term means, it is helpful to first define the single conc
 
 ### Definition of Culture
 
-    "CULTURE IS HOW ORGANIZATIONS DO THINGS." - [Robbie Katanga](https://hbr.org/2013/05/|what-is-organizational-culture)
+    "CULTURE IS HOW ORGANIZATIONS DO THINGS." - [Robbie Katanga](https://hbr.org/2013/05/what-is-organizational-culture)[^1]
 
 Culture describes the overarching system of values and norms adopted by a group of people. It refers to the behavioral patterns in an organization that can be observed. Consequently, these behaviors occur repeatedly.
 
@@ -240,8 +240,6 @@ Company culture is everyone's responsibility. Harvard Business Review. (2021, Fe
 
 Doppler, K., & Lauterburg, C. (2019). Change Management: Den Unternehmenswandel gestalten. Campus Verlag.
 
-Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.
-
 Hastings, R. (2020). No rules rules: Netflix and the culture reinvention. WH Allen.
 
 McCord, P. (2014). How netflix reinvented HR. Harvard Business Review, 92(1), 71-76.
@@ -251,4 +249,8 @@ Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November
 Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 
 
 Schein, E. H. (1990). Organizational culture. American Psychologist, 45(2), 109–119. https://doi.org/10.1037/0003-066x.45.2.109.
+
+Schwarz, S. (n.d.). Organizational Culture (Lecture Slides). CBS International Business School.
+
+Watkins, M. D. (2014, August 7). What is organizational culture? and why should we care? Harvard Business Review. Retrieved November 12, 2022, from https://hbr.org/2013/05/what-is-organizational-culture.
 

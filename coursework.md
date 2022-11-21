@@ -122,7 +122,7 @@ The company Netflix it well-known for its distinctive Organizational Culture. In
 
 ### 1. Values are what we Value
 
-![nine values of Netflix](nineskills.png)
+![nine values of Netflix](nineskillsCW.png)
 
 According to Netflix, the values of a company are reflected in the behaviors and skills which are valued by the employees. In this context, there are nine values that are considered particularly desirable and worthy of promotion. In contrast, Netflix lets go of those people who don't represent the values. The business appreciates people with good __1)__ __judgement__ skills. This includes being able to take decisions wisely, even if the information available is ambiguous as well as thinking strategically. Employees who have this capability are also skilled at prioritizing tasks effectively. In addition, __2)__ __communication__ is considered as an relevant value. Those people listen and evaluate carefully instead of making rash statements. They face people with respect and are capable of keeping calm, even in stressful situations. Employees proofing __3)__ __impact__ are characterized by working goal-oriented and constantly performing high. Beyond that, Netflix requires their employees to continuously appear with __4)__ __curiosity__, which includes to see things from stakeholders' perspective, regularly extend one's knowledge about business, technology and entertainment as well as conduct tasks not included in your specialty. Valuing __5)__ __innovation__ implies that an employee challenges existing assumptions while finding solutions to them and new problems. Innovation also involves minimizing complexity and simplifying content. Beyond that, Netflix seeks for employees who continuously unveil __6)__ __courage__. This includes expressing controversial opinions as well as taking complex decisions. Netflix looks for people who inspire others by their top performance and highly care about the company's success, in other words: employees need __7)__ __passion__. As with many other companies, __8)__ __honesty__ is one of Netflix's fundamental corporate values. This implies that employees communicate in an open, direct and non-judgmental way and openly admit mistakes made, in addition being willing to admit mistakes. According to Netflix, an employee reflects __9)__ __selflessness__ when always choosing the option that is best for the company, putting own needs or the needs of the team second. Selfless employees invest their time in helping colleagues and sharing their knowledge with them.
 
@@ -154,13 +154,13 @@ One aspect of Netflix's organizational culture, is the image of __The__ __Rare__
 * Doesn't wait to be told what to do
 * Picks up the trash lying on the floor
 
-![The Rare Responsible Person](TheRareResponsiblePerson.png) 
+![The Rare Responsible Person](TheRareResponsiblePersonCW.png) 
 
 Ingrained in Netflix's corporate culture is the firm belief that managers should avoid controlling their employees. It is assumed that entrepreneurial success can only be achieved if employees are given freedom and responsibility. This aspect of the corporate culture encourages and attracts innovative employees, which in turn has a positive impact on the success and growth of the business.
 Growing companies in particular make the mistake of limiting employees' freedom due to increasing complexity over time, explains Netflix. In order to counteract the resulting chaos, rules and predefined patterns of action are established. As a result, the creativity of the company's talents is restricted, reducing the overall level of high-performance employees in the company.
 However, to prevent this, Netflix is always striving to ensure that the talent density in the company rises higher than the complexity increases. 
 
-![No Policies at Netflix](No_policies.png)
+![No Policies at Netflix](No_policiesCW.png)
 
 Freedom and responsibility are deeply embedded in Netflix's corporate culture, which is also evident from its vacation policy. Employees do not have a 9am to 5pm workday and no working hours are tracked in the company. Thus, employees may work late into the night, check emails on the weekend, but also spend their afternoon on personal time. Likewise, the company does not see the need for a strict vacation policy. The focus is not on the number of vacation days an employees take, but whether they complete their tasks. Nor does the company impose a dress code on employees as long as they come to work wearing clothes.
 Nevertheless, freedom is not unlimited at Netflix. Dishonesty and harassment are not tolerated in the workplace. In addition, the company takes legal issues very seriously and always controls the secure handling of customers' payment information.
@@ -169,7 +169,7 @@ Nevertheless, freedom is not unlimited at Netflix. Dishonesty and harassment are
 
 ### 4. Context, not Control
 
-![Context, not Control](ContextnotControl.png)
+![Context, not Control](ContextnotControlCW.png)
 
 To become a successful organization, leaders should create an appropriate context as a foundation for desired outcomes. It is assumed that control over employees does not lead to the success of a company. Rather, they should receive internal information so that they are enabled to understand decisions made. In this context, Netflix defines exactly which context-enhancing behaviors lead to the desired outcome and which controlling activities should be avoided.
 
@@ -194,7 +194,7 @@ However, Netflix acknowledges that there are exceptions to "Context, no Control.
 
 ### 5. Highly Aligned, Loosely Coupled
 
-![Big_Fast_Flexible](Big_Fast_Flexible.png)
+![Big_Fast_Flexible](Big_Fast_FlexibleCW.png)
 
 The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Coupled__. The model of corporate teamwork is profoundly embedded in Netflix' organizational culture and assumes, that the effectiveness of a team is build on high performance people and a good context. The __highly__ __aligned__ __aspects__ of this agile work method involves team collaboration focused on executing clear and concise goals and strategies. Simultaneously, transparency and perceptiveness require high time investment in management. On the other hand, __loosely__ __coupled__ implies, that the number of meetings is reduced to a minimum, but they are held only occasionally for the purpose of jointly coordinating corporate goals and strategies. A basic trust between the teams allows to make decisions quickly and independently. 
 
@@ -228,7 +228,7 @@ Furthermore, Netflix clearly communicates what promotion and development opportu
 Furthermore, it is part of Netflix's corporate culture that employees drive their career development independently rather than following a strict career plan as is typical in other large companies. Rather, employees are given the change to continuously improve themselves through experience, observation, introspection, reading, and discussion. Similarly, working with talented colleagues and overcoming major challenges contributes to the continuous development of the individual. According to Netflix, these measures positively impact an individual's skills and reputation, which in turn promotes his or her economic security.
 
 
-![Conditions for Promotion](ConditionsPromotion.png)
+![Conditions for Promotion](ConditionsPromotionCW.png)
 
 
 ---

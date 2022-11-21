@@ -28,7 +28,7 @@ An organization is a collaborative system existing for a specific period of time
 
 ### Definition of Organizational Culture
 
-Organizational culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the business. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this can be, that every meeting within a company ends with collecting results and planning the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
+Organizational Culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the business. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this can be, that every meeting within a company ends with collecting results and planning the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
 
 ---
 
@@ -36,15 +36,15 @@ Organizational culture is defined as a system of __shared__ __values__ and __nor
 
 The five reasons for establishing an organizational culture:
 
-⚖️ 1. increases the __stability__ of a social system
+⚖️ 1. Increases the __stability__ of a social system
 
-🧭 2. gives __orientation__ for correct behavior
+🧭 2. Gives __orientation__ for correct behavior
 
-🚧 3. sets the __boundaries__ to other organizations and their members
+🚧 3. Sets the __boundaries__ to other organizations and their members
 
-🆔 4. creates a sense of __identity__ for members
+🆔 4. Creates a sense of __identity__ for members
 
-🤝 5. promotes the emergence of __commitment__
+🤝 5. Promotes the emergence of __commitment__
 
 ---
 
@@ -68,13 +68,33 @@ Even though in some cases inescapable, __cultural change__ is difficult. The und
 
 For achieving a cultural change, Doppler & Lauterburg (2019) recommends the consistent and simultaneous implementation of the following influencing measures for medium-term success:
 
-1. *Specifically describing the desired future.* The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
-2. *Thoroughly justifying the necessity for change.* When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
-3. *Setting norms by example.* Only if the top management of a company commits to change of the organizational change, it can successfully happen.
-4. *Collective effort with regard to culture change.* It is effective to let every person from a company participate in the desired change.
-5. *Shifting gears by staff selection in key positions.* If the people in key positions behave in line with the behavioral norms, this has a significant impact on successfully changing the organizational culture.
-6. *Rewards and sanctions in the leadership process.* For instance, paying a bonus for a person showing the requested leadership behavior might motivating other employees to change as well.
-7. *Consistent project management.* In order to implement organizational change, companies must invest time and money. 
+1. *Specifically describing the desired future.* 
+
+The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
+
+2. *Thoroughly justifying the necessity for change.* 
+
+When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
+
+3. *Setting norms by example.* 
+
+Only if the top management of a company commits to change of the organizational change, it can successfully happen.
+
+4. *Collective effort with regard to culture change.* 
+
+It is effective to let every person from a company participate in the desired change.
+
+5. *Shifting gears by staff selection in key positions.* 
+
+If the people in key positions behave in line with the behavioral norms, this has a significant impact on successfully changing the organizational culture.
+
+6. *Rewards and sanctions in the leadership process.* 
+
+For instance, paying a bonus for a person showing the requested leadership behavior might motivating other employees to change as well.
+
+7. *Consistent project management.* 
+
+In order to implement organizational change, companies must invest time and money. 
 
 
 ---

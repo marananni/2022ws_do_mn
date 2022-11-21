@@ -233,7 +233,7 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 
 ---
 ---
-References:
+### References:
 
 
 Company culture is everyone's responsibility. Harvard Business Review. (2021, February 9). Retrieved November 12, 2022, from https://hbr.org/2021/02/company-culture-is-everyones-responsibility.

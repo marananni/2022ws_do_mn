@@ -4,7 +4,7 @@ This blog post was created by Mara Nanni as part of the course *Digital* *Organi
 
 ---
 
-## What is the definition of Organizational Culture?
+## What is the Definition of Organizational Culture?
 
 To understand what the term means, it is helpful to first define the single concepts.
 
@@ -14,7 +14,7 @@ To understand what the term means, it is helpful to first define the single conc
 
     "CULTURE IS HOW ORGANIZATIONS DO THINGS." - [Robbie Katanga](https://hbr.org/2013/05/|what-is-organizational-culture)
 
-Culture describes the overarching system of values and norms adopted by a group of people. It refers to the behavioral patterns in an organization that can be observed. Consequently, these behavior occur repeatedly.
+Culture describes the overarching system of values and norms adopted by a group of people. It refers to the behavioral patterns in an organization that can be observed. Consequently, these behaviors occur repeatedly.
 
 ---
 
@@ -28,19 +28,25 @@ An organization is a collaborative system existing for a specific period of time
 
 ### Definition of Organizational Culture
 
-Organizational Culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the business. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this can be, that every meeting within a company ends with collecting results and planning the next steps. Consequently, the organizational culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The organizational culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
+Organizational Culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the business. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this might be, that every meeting within a company ends with collecting results and planning the next steps. Consequently, the Organizational Culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The Organizational Culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
 
 ---
 
 ## Why is Organizational Culture needed?
 
-The five reasons for establishing an organizational culture:
+The five reasons for establishing an Organizational Culture:
 
-⚖️ 1. Increases the __stability__ of a social system
+⚖️ 1. Organizational Culture increases the __stability__ of a social system. 
 
-🧭 2. Gives __orientation__ for correct behavior
+It contributes to the decrease of turnover by creating a sense of inclusivity and community within a company; moreover, it is beneficial in times of change.
 
-🚧 3. Sets the __boundaries__ to other organizations and their members
+🧭 2. An established Organizational Culture gives __orientation__ for correct behavior.
+
+On this basis, employees understand which behaviors are desired and promoted within the company. 
+
+🚧 3. Organizational Culture sets the __boundaries__ to other organizations and their members.
+
+As already highlighted, it is the unique characteristic of each organization. 
 
 🆔 4. Creates a sense of __identity__ for members
 
@@ -48,7 +54,7 @@ The five reasons for establishing an organizational culture:
 
 ---
 
-## How is to learn the organizational culture in the workplace?
+## How is to learn the Organizational Culture in the workplace?
 
 The four ways culture is transmitted to employees:
 
@@ -70,11 +76,11 @@ For achieving a cultural change, Doppler & Lauterburg (2019) recommends the cons
 
 __*1. Specifically describing the desired future.*__
 
-    The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
+The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
 
 __*2. Thoroughly justifying the necessity for change.*__
 
-    When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
+When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
 
 __*3. Setting norms by example.*__
 

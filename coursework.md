@@ -70,11 +70,11 @@ For achieving a cultural change, Doppler & Lauterburg (2019) recommends the cons
 
 __*1. Specifically describing the desired future.*__
 
-The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
+    The more precise the description is, the easier it is for the organizational member to understand and display the desired behaviors.
 
 __*2. Thoroughly justifying the necessity for change.*__
 
-When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
+    When people comprehend the reasons for the need to change, they are more likely to adopt. An example could be, that an organization must change its culture in order ro remain competitive.
 
 __*3. Setting norms by example.*__
 

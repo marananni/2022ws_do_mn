@@ -26,13 +26,13 @@ An organization is a collaborative system existing for a specific period of time
 
 ---
 
-### Definition of Organizational Culture [^3] [^4]
+### Definition of Organizational Culture [^3]
 
 Organizational Culture is defined as a system of __shared__ __values__ and __norms__ among members that differentiates the organization from other organizations. In the ideal case, the organizational culture is accepted and shared by every member of the business. It is a result of interactions and usually __reveals__ __itself__ __in__ __common__ __practices__. An example for this might be, that every meeting within a company ends with collecting results and planning the next steps. Consequently, the Organizational Culture is based on unwritten rules of a social system, being expressed in all processes of the organization. The Organizational Culture __makes__ __the__ __company__ __unique__; there is no other organization with the exact same culture. Since is it is subject to the interpretations of the individual, it is __constantly__ __changing__.
 
 ---
 
-## Why is Organizational Culture needed?
+## Why is Organizational Culture needed? [^4]
 
 The five reasons for establishing an Organizational Culture:
 
@@ -57,7 +57,7 @@ Job candidates with similar values might be attracted by the company and its mis
 In particular, it results in higher  satisfaction and motivation of employees, which positively impacts productivity.
 ---
 
-## How to learn the Organizational Culture in the workplace?
+## How to learn the Organizational Culture in the workplace? [^5]
 
 there are four possible ways to transmit Organizational Culture to employees:
 
@@ -71,7 +71,7 @@ there are four possible ways to transmit Organizational Culture to employees:
 
 ---
 
-## Paths to Cultural Change
+## Paths to Cultural Change [^6]
 
 Even though in some cases inescapable, __Cultural Change__ is difficult. The underlying reason therefore is, that the existing culture of an organization was developed and learned through some instances decades of behavior. It is extensively researched that altering human behavior may be very complex.
 
@@ -107,7 +107,7 @@ In order to implement organizational change, companies must invest time and mone
 
 ---
 
-## Business Case: Organizational Culture using the Example of Netflix
+## Business Case: Organizational Culture using the Example of Netflix [^7]
 
 
     "OUR CULTURE FOCUSES ON HELPING US ACHIEVE EXCELLENCE." - Netflix, 2009
@@ -120,7 +120,7 @@ The company Netflix it well-known for its distinctive Organizational Culture. In
 
 ---
 
-### 1. Values are what we Value
+### 1. Values are what we Value [^7]
 
 ![nine values of Netflix](nineskillsCW.png)
 
@@ -128,7 +128,7 @@ According to Netflix, the values of a company are reflected in the behaviors and
 
 ---
 
-### 2. High Performance
+### 2. High Performance [^7]
 
 
     "GREAT WORKPLACE IS STUNNING COLLEAGUES." - Netflix, 2009 
@@ -142,7 +142,7 @@ Netflix believes *loyalty* has a stabilizing influence and thus contributes to a
 
 ----
 
-### 3. Freedom & Responsibility
+### 3. Freedom & Responsibility [^8]
 
 One aspect of Netflix's organizational culture, is the image of __The__ __Rare__ __Responsible__ __Person__ being someone who *thrives* of freedom, simultaneously also being *worth* it. In detail, this implies that an employee has the following characteristics:
 
@@ -167,7 +167,7 @@ Nevertheless, freedom is not unlimited at Netflix. Dishonesty and harassment are
 
 ---
 
-### 4. Context, not Control
+### 4. Context, not Control [^7]
 
 ![Context, not Control](ContextnotControlCW.png)
 
@@ -192,7 +192,7 @@ However, Netflix acknowledges that there are exceptions to "Context, no Control.
 
 ---
 
-### 5. Highly Aligned, Loosely Coupled
+### 5. Highly Aligned, Loosely Coupled [^8]
 
 ![Big_Fast_Flexible](Big_Fast_FlexibleCW.png)
 
@@ -200,7 +200,7 @@ The way that teams work is described as __Highly__ __Aligned,__ __Loosely__ __Co
 
 ---
 
-### 6. Pay Top of Market
+### 6. Pay Top of Market [^7]
 
 The Salaries at Netflix are a critical part of the organizational culture. The corporation is willing to wisely invest in employees' salaries, assuming that a few high performance employees would achieve more than numerous average employees.
 
@@ -215,7 +215,7 @@ Following this principle, an employee's compensation increases are based on incr
 
 ---
 
-### 7. Promotions & Development
+### 7. Promotions & Development [^9]: 
 
 Furthermore, Netflix clearly communicates what promotion and development opportunities the company offers. In case an employee wants to leave the company, a manager should allow the employee to be promoted if the following criteria are met:
 
@@ -235,24 +235,20 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 ---
 ### References:
 
-
-Company culture is everyone's responsibility. Harvard Business Review. (2021, February 9). Retrieved November 12, 2022, from https://hbr.org/2021/02/company-culture-is-everyones-responsibility.
-
-Doppler, K., & Lauterburg, C. (2019). Change Management: Den Unternehmenswandel gestalten. Campus Verlag.
-
-Hastings, R. (2020). No rules rules: Netflix and the culture reinvention. WH Allen.
-
-McCord, P. (2014). How netflix reinvented HR. Harvard Business Review, 92(1), 71-76.
-
-Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture.
+[^1]: Watkins, M. D. (2014, August 7). What is organizational culture? and why should we care? Harvard Business Review. Retrieved November 12, 2022, from https://hbr.org/2013/05/what-is-organizational-culture.
 
 [^2]: Organization. Cambridge Dictionary. (n.d.). Retrieved November 21, 2022, from https://dictionary.cambridge.org/dictionary/english/organization.
 
-[^3]: Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited. 
+[^3]: Schein, E. H. (1990). Organizational culture. American Psychologist, 45(2), 109–119. https://doi.org/10.1037/0003-066x.45.2.109.
 
-Schein, E. H. (1990). Organizational culture. American Psychologist, 45(2), 109–119. https://doi.org/10.1037/0003-066x.45.2.109.
+[^4]: Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited.
 
-[^4] Schwarz, S. (n.d.). Organizational Culture (Lecture Slides). CBS International Business School.
+[^5] Schwarz, S. (n.d.). Organizational Culture (Lecture Slides). CBS International Business School.
 
-[^1]: Watkins, M. D. (2014, August 7). What is organizational culture? and why should we care? Harvard Business Review. Retrieved November 12, 2022, from https://hbr.org/2013/05/what-is-organizational-culture.
+[^6]: Doppler, K., & Lauterburg, C. (2019). Change Management: Den Unternehmenswandel gestalten. Campus Verlag.
 
+[^7]: Netflix Culture — Seeking Excellence. Netflix jobs. (n.d.). Retrieved November 12, 2022, from https://jobs.netflix.com/culture.
+
+[^8]: Hastings, R. (2020). No rules rules: Netflix and the culture reinvention. WH Allen.
+
+[^9]: McCord, P. (2014). How netflix reinvented HR. Harvard Business Review, 92(1), 71-76.

@@ -48,15 +48,18 @@ On this basis, employees understand which behaviors are desired and promoted wit
 
 As already highlighted, it is the unique characteristic of each organization. 
 
-🆔 4. Creates a sense of __identity__ for members
+🆔 4. Organizational Culture creates a sense of __identity__ for members.
 
-🤝 5. Promotes the emergence of __commitment__
+Job candidates with similar values might be attracted by the company and its mission. 
 
+🤝 5. Organizational Culture promotes the emergence of __commitment__.
+
+In particular, it results in higher  satisfaction and motivation of employees, which positively impacts productivity.
 ---
 
-## How is to learn the Organizational Culture in the workplace?
+## How to learn the Organizational Culture in the workplace?
 
-The four ways culture is transmitted to employees:
+there are four possible ways to transmit Organizational Culture to employees:
 
 📚 *__Stories__*: Telling stories about significant events or people, such as a CEO speech or reactions to mistakes made, provides employees with information about what values and behaviors are desired in the organization. At the same time, it provides explanation for certain practices and illustrates what is of great relevance to the company. 
 
@@ -68,11 +71,11 @@ The four ways culture is transmitted to employees:
 
 ---
 
-## Paths to cultural change
+## Paths to Cultural Change
 
-Even though in some cases inescapable, __cultural change__ is difficult. The underlying reason therefore is, that the existing culture of an organization was developed and learned through some instances decades of behavior. It is extensively researched that altering human behavior may be very difficult.
+Even though in some cases inescapable, __Cultural Change__ is difficult. The underlying reason therefore is, that the existing culture of an organization was developed and learned through some instances decades of behavior. It is extensively researched that altering human behavior may be very difficult.
 
-For achieving a cultural change, Doppler & Lauterburg (2019) recommends the consistent and simultaneous implementation of the following influencing measures for medium-term success:
+For achieving a cultural change, Doppler & Lauterburg (2019) recommend the consistent and simultaneous implementation of the following influencing measures for medium-term success:
 
 __*1. Specifically describing the desired future.*__
 
@@ -231,9 +234,10 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 ---
 References:
 
-Doppler, K., & Lauterburg, C. (2019). Change Management: Den Unternehmenswandel gestalten. Campus Verlag.
 
 Company culture is everyone's responsibility. Harvard Business Review. (2021, February 9). Retrieved November 12, 2022, from https://hbr.org/2021/02/company-culture-is-everyones-responsibility.
+
+Doppler, K., & Lauterburg, C. (2019). Change Management: Den Unternehmenswandel gestalten. Campus Verlag.
 
 Harvard Business Review. (2014, August 7). *What is organizational culture? and why should we care?* https://hbr.org/2013/05/what-is-organizational-culture.
 

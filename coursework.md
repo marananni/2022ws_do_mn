@@ -73,9 +73,9 @@ there are four possible ways to transmit Organizational Culture to employees:
 
 ## Paths to Cultural Change
 
-Even though in some cases inescapable, __Cultural Change__ is difficult. The underlying reason therefore is, that the existing culture of an organization was developed and learned through some instances decades of behavior. It is extensively researched that altering human behavior may be very difficult.
+Even though in some cases inescapable, __Cultural Change__ is difficult. The underlying reason therefore is, that the existing culture of an organization was developed and learned through some instances decades of behavior. It is extensively researched that altering human behavior may be very complex.
 
-For achieving a cultural change, Doppler & Lauterburg (2019) recommend the consistent and simultaneous implementation of the following influencing measures for medium-term success:
+For achieving a Cultural Change, Doppler & Lauterburg (2019) recommend the consistent and simultaneous implementation of the following influencing measures for medium-term success:
 
 __*1. Specifically describing the desired future.*__
 
@@ -104,7 +104,6 @@ For instance, paying a bonus for a person showing the requested leadership behav
 __*7. Consistent project management.*__
 
 In order to implement organizational change, companies must invest time and money. 
-
 
 ---
 

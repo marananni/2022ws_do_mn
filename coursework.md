@@ -117,7 +117,6 @@ The company Netflix it well-known for its distinctive Organizational Culture. In
 
 ![Organizational Culture Netflix](Introduction_NetflixCW.png)
 
-
 ---
 
 ### 1. Values are what we Value [^7]
@@ -230,7 +229,6 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 
 ![Conditions for Promotion](ConditionsPromotionCW.png)
 
-
 ---
 ---
 ### References:
@@ -243,7 +241,7 @@ Furthermore, it is part of Netflix's corporate culture that employees drive thei
 
 [^4]: Robbins, S. P., & Judge, T. (2022). Organizational behavior. Pearson Education Limited.
 
-[^5] Schwarz, S. (n.d.). Organizational Culture (Lecture Slides). CBS International Business School.
+[^5]: Schwarz, S. (n.d.). Organizational Culture (Lecture Slides). CBS International Business School.
 
 [^6]: Doppler, K., & Lauterburg, C. (2019). Change Management: Den Unternehmenswandel gestalten. Campus Verlag.
 
